@@ -9,6 +9,11 @@ STEAM_MASTERY_REGEX = r"(Mastery Set - |AC\.MS - | Class | Type |\(.*\))"
 class troubleshooterMastery:
     def __init__(self):
         self.korean_dictionary, self.english_dictionary = self._collect_dictionary()
+        corrected_dictionary_workbook = openpyxl.load_workbook("corrected_code_dictionary.xlsx", data_only=True)
+        corrected_dictionary_worksheet = corrected_dictionary_workbook['Sheet1']
+        self.raw_text_dictionary = [cell.value for cell in list(corrected_dictionary_worksheet["A:A"])]
+        self.corrected_text_dictionary = [cell.value for cell in list(corrected_dictionary_worksheet["B:B"])]
+        self.code_dictionary = [cell.value for cell in list(corrected_dictionary_worksheet["C:C"])]
 
     def main(self):
         with open("guide.html",encoding="utf-8",mode="r") as f:
@@ -71,35 +76,39 @@ class troubleshooterMastery:
                     parsed_text = line.replace("{}".format(korean_name),"")
                     english_name = re.compile(r"(?<={}]).*".format(tag_name)).search(parsed_text).group().strip()
 
-                korean_dictionary.append(korean_name)
-                english_dictionary.append(english_name)
+                korean_dictionary.append(korean_name.replace(" ", " "))
+                english_dictionary.append(english_name.replace(" ", " "))
 
         return korean_dictionary, english_dictionary
 
     def translate_english_to_korean(self,english_data):
         korean_data = []
+        print(self.raw_text_dictionary)
+
         for data in english_data:
+            data = data.replace(" ", " ")
+            if (data in self.raw_text_dictionary) == True:
+                index = self.raw_text_dictionary.index(data)
+                data = self.corrected_text_dictionary[index]
+
             highest_match = process.extractOne(data,self.english_dictionary)
             translated_word = self.korean_dictionary[self.english_dictionary.index(highest_match[0])]
 
-            if data == "General":
-                korean_data.append("공용")
-
-            elif highest_match[1] == 100:
+            if highest_match[1] == 100:
                 korean_data.append(translated_word)
 
             elif highest_match[1] > 90:
                 with open("translating_log.txt",mode="a",encoding="utf-8") as f:
                     f.write("{}\n".format(data))
                 korean_data.append(translated_word)
+                print(data)
 
             elif highest_match[1] <= 90:
                 with open("translating_log.txt",mode="a",encoding="utf-8") as f:
                     f.write("{}\n".format(data))
                     # f.write("{}는 {}({})와(과) 일치율 {}(으)로 영어명을 그대로 사용함.\n".format(data,highest_match[0],translated_word,str(highest_match[1])))
                 korean_data.append(data)
-
-        print(korean_data)
+                print(data)
 
         return korean_data
 
