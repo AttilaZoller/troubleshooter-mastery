@@ -1,0 +1,16 @@
+Fire/Ice/Lightning/Wind/Water/Earth Blessing
+Fire/Ice/Lightning/Wind/Water/Earth Resistance I
+II
+III
+Physical Resist. I/II/III
+Blunt I(II,III)
+Pierce I(II,III)
+Slash I(II,III)
+Fire/Ice/Lightning/Wind/Water/Earth Blessing
+Fire/Ice/Lightning/Wind/Water/Earth Resistance I
+II
+III
+Physical Resist. I/II/III
+Blunt I(II,III)
+Pierce I(II,III)
+Slash I(II,III)
