@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Mastery.xlsx
+translating_log.txt
