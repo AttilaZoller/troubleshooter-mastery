@@ -13287,10 +13287,10 @@
 #20730	[!Mastery]정신적인 상태 이상	[!Mastery]Mental debuff
 #20731	[!Mastery]자아가 완전히 형성되기 이전의 미숙기 단계의 개체에게는 적용되지 않습니다.	[!Mastery]This is not applied to the ones in babyhoods that haven't formed their egos yet.
 #20733	[!Mastery]자신이 받는 $Type$ 속성 피해량이 $Value$ 감소합니다.	[!Mastery]Reduces the $Type$ damage taken by $Value$.
-#20734	[!Mastery]$State$ 상태인 적을 공격할 경우, 자신의 $Stat$[이] $Value$ 증가합니다.	[!Mastery]Increases the $Stat$ of all your attack against an enemy of the $State$ by $Value$.
+#20734	[!Mastery]$State$ 상태인 적을 공격할 경우, 자신의 공격력[이] $Value$ 증가합니다.	[!Mastery]Increases the 공격력 of all your attack against an enemy of the $State$ by $Value$.
 #20736	[!Mastery]적을 공격할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]Upon attacking enemy, the following effects occur.
 #20737	[!Mastery]물리 공격	[!Mastery]Physical attack
-#20738	[!Mastery]적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Decreases enemy's $Stat$ by $Value$.
+#20738	[!Mastery]적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Decreases enemy's 공격력 by $Value$.
 #20739	[!Mastery]초능력 공격	[!Mastery]ESP attack
 #20741	[!Mastery]공연 슬롯이 $Value$개 추가됩니다.	[!Mastery]Increases the performance slots by $Value$.
 #20742	[!Mastery]사용 가능한 어빌리티에 순차적으로 $Performance$ 속성을 부여합니다.	[!Mastery]Grants $Performance$ to available abilities sequentially.
@@ -13298,9 +13298,9 @@
 #20744	[!Mastery]소환한 기계	[!Mastery]Summoned robot
 #20745	[!Mastery]제어권을 탈취한 기계	[!Mastery]Stolen robot
 #20746	[!Mastery]공격 시	[!Mastery]When attacking
-#20747	[!Mastery]적의 $Stat$[이] $Value$, $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]Reduces an enemy's $Stat$ by $Value$, $Stat2$ by $Value2$.
+#20747	[!Mastery]적의 공격력[이] $Value$, $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]Reduces an enemy's 공격력 by $Value$, $Stat2$ by $Value2$.
 #20748	[!Mastery]피격 시	[!Mastery]When attacked
-#20749	[!Mastery]자신의 $Stat$[이] $Value$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]Increases your $Stat$ by $Value$, $Stat2$ by $Value2$.
+#20749	[!Mastery]자신의 공격력[이] $Value$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]Increases your 공격력 by $Value$, $Stat2$ by $Value2$.
 #20751	[!Mastery]$Ability$를 사용한 위치에 있는 적은 해당 어빌리티로 받는 피해가 $Value$ 증가합니다.	[!Mastery]Increases the damage dealt against an enemy located the position of using your $Ability$ by $Value$.
 #20752	[!Mastery]범위 공격 어빌리티	[!Mastery]Radial attack ability
 #20753	[!Mastery]반경 $Value$칸 내의 아군은 $Buff$ 상태가 됩니다.	[!Mastery]Grants $Buff$ to all allies within the radius of $Value$ tile.
@@ -13310,16 +13310,16 @@
 #20757	[!Mastery]교란용 오브젝트에게 추가로 $Mastery$ 특성을 부여합니다.	[!Mastery]Grants $Mastery$ to decoy hologram additionally.
 #20758	[!Mastery]해킹 성공률이 $Value$ 증가합니다.	[!Mastery]Increases the success chance of hacking by $Value$.
 #20759	[!Mastery]해킹 성공 시, $Buff$ 상태가 됩니다.	[!Mastery]Grants $Buff$ when succeeding in hacking.
-#20761	[!Mastery]$Ability$로 적을 공격할 경우, $Stat$만큼 $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Increases the $Stat2$ of your $Ability$ by $Value$ of $Stat$.
+#20761	[!Mastery]$Ability$로 적을 공격할 경우, 공격력만큼 $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Increases the $Stat2$ of your $Ability$ by $Value$ of 공격력.
 #20762	[!Mastery]초능력 공격 어빌리티	[!Mastery]ESP attack ability
 #20763	[!Mastery]적에게 공격을 당할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]If you are attacked by the opponent, the following effects occur.
 #20764	[!Mastery]근접 공격	[!Mastery]Melee attack
-#20765	[!Mastery]$Stat$[이] $Value$ 증가합니다.	[!Mastery]$Stat$ increases by $Value$.
+#20765	[!Mastery]공격력[이] $Value$ 증가합니다.	[!Mastery]공격력 increases by $Value$.
 #20766	[!Mastery]원거리 공격	[!Mastery]Ranged attack
 #20767	[!Mastery]캐릭터의 경험치 획득량이 $Value$ 증가합니다.	[!Mastery]Increases your EXP gain by $Value$.
 #20768	[!Mastery]다음 지형과 날씨 상황에서 해당 효과가 발생합니다.	[!Mastery]The effect occurs in the following field and weather.
 #20769	[!Mastery]지형 / 지형 효과	[!Mastery]Field/ Field effect
-#20770	[!Mastery]적의 $Stat$[이] $Value$ 추가 감소합니다.	[!Mastery]Reduces an enemy's $Stat$ by $Value$ additionally.
+#20770	[!Mastery]적의 공격력[이] $Value$ 추가 감소합니다.	[!Mastery]Reduces an enemy's 공격력 by $Value$ additionally.
 #20771	[!Mastery]지형 효과에 면역이 됩니다.	[!Mastery]You are immune to all field effects.
 #20772	[!Mastery]해당 지형으로 인한 상태 이상이 발생하지 않습니다.	[!Mastery]Does not become debuffed by the field.
 #20773	[!Mastery]날씨	Weather
@@ -13332,13 +13332,13 @@
 #20780	[!Mastery]레벨 상승 시	[!Mastery]When your level up
 #20781	[!Mastery]$Buff$ 상태가 됩니다.	[!Mastery]Grants $Buff$.
 #20784	[!Mastery]공격한 대상을 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Reduces your $ActionTime$ by $Value$ if the target is $Dead$ by your attack.
-#20785	[!Mastery]$State$ 혹은 $State2$ 상태인 적을 공격할 경우 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Increases the $Stat$ and $Stat2$ of all your attack against an enemy of the $State$ or $State2$ by $Value$.
+#20785	[!Mastery]$State$ 혹은 $State2$ 상태인 적을 공격할 경우 공격력, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Increases the 공격력 and $Stat2$ of all your attack against an enemy of the $State$ or $State2$ by $Value$.
 #20786	[!Mastery]적 팀 시야에 노출되지 않은 위치에서 공격한 대상을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]Recovers your $ActionPoint$ by $Value$ if the target is $Dead$ by your attack while not exposed to enemies.
 #20787	[!Mastery]행동력	[!Help]Action point
 #20788	[!Mastery]자신의 공격으로 시야 내 모든 적을 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다.	[!Mastery]Recovers your $ActionPoint$ by $Value$ if all enemies within your line of sight are $Dead$ by your attack.
 #20789	[!Mastery]$Ability$로 적을 공격할 경우, 어빌리티의 피해 속성에 따라 다음과 같은 효과가 발생합니다.	[!Mastery]Attacking a target usinng $Ability$ brings about the following effects according to the ability's damage type.
 #20790	[!Mastery]공격 어빌리티	Attack ability
-#20791	[!Mastery]$Stat$[이] $Stat2$의 $Value$만큼 증가합니다.	[!Mastery]Increases your $Stat$ by $Value$ of $Stat2$.
+#20791	[!Mastery]공격력[이] $Stat2$의 $Value$만큼 증가합니다.	[!Mastery]Increases your 공격력 by $Value$ of $Stat2$.
 #20792	[!Mastery]근접 공격에 적중된 대상이 장착한 소모성 아이템 중 무작위의 아이템 $Value$개를 $Value2$ 확률로 훔쳐옵니다.	[!Mastery]Snatches $Value$ random equipped consumables from the target struck by melee damage by $Value2$ chance. 
 #20793	[!Mastery]적과의 전투 시 다음과 같은 효과가 발생합니다.	[!Mastery]Engaging in a battle brings about the following effects.
 #20796	[!Mastery]근접한 적과 전투 시, 다음과 같은 효과가 발생합니다.	[!Mastery]Engaging in a battle with nearby foe brings about the following effects occur.
@@ -13369,7 +13369,7 @@
 #20824	[!Mastery]$Group$ 소속인 대상에게 주는 피해량이 $Value$ 증가합니다.	[!Mastery]Increases all damage caused against target belonging to $Group$ by $Value$.
 #20825	[!Mastery]시야 내 아군이 $Dead$이 되면 $Buff$ 상태가 됩니다.	[!Mastery]Grants $Buff$ if an ally is $Dead$ within your line of sight.
 #20826	[!Mastery]시야 내 같은 조직 소속의 아군의 공격으로 적이 $Dead$이 되면, $Buff$ 상태가 됩니다.	[!Mastery]Grants $Buff$ if the target is $Dead$ by your allies' attack belonging to the same organization within your line of sight.
-#20827	[!Mastery]자신의 남은 체력보다 남은 체력이 낮은 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Increases the $Stat$ of all your attacks against an enemy by $Value$ if the enemy's current HP is lower than your current HP.
+#20827	[!Mastery]자신의 남은 체력보다 남은 체력이 낮은 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Increases the 공격력 of all your attacks against an enemy by $Value$ if the enemy's current HP is lower than your current HP.
 #20828	[!Mastery]적을 공격하여 $Dead$으로 만들면, $Buff$ 상태가 됩니다.	[!Mastery]Grants $Buff$ if the target is $Dead$ by your attack.
 #20831	[!Mastery]자신이 주는 피해량이 자신의 잃은 체력의 $Value$만큼 증가합니다.	[!Mastery]Increases the damage dealt by your all attack abilities by $Value$ of lost HP.
 #20832	[!Mastery]자신의 공격을 적이 회피 혹은 방어할 경우, $ActionTime$이 $Value$ 감소하며 $SP$가 $Value2$ 증가합니다.	[!Mastery]Reduces your $ActionTime$ by $Value$ and Increases your $SP$ by $Value2$ if a target dodges or blocks your attack.
@@ -13413,7 +13413,7 @@
 #20876	[!Mastery]자신을 소환한 캐릭터가 $Dead$이 되어도 소환된 아군이 아닌 아군이 존재하면 소환이 해제되지 않습니다.	[!Mastery]The summoned will not fall even if the summoner is put $Dead$ if there are allies(not summoned) still alive.
 #20877	[!Mastery]$Rage$가 $Value$ 감소하고 체력을 $Value2$만큼 회복합니다.	[!Mastery]Reduces $Rage$ by $Value$ and recovers your HP by $Value2$.
 #20878	[!Mastery]체력을 잃지 않았거나 소모할 $Rage$가 부족하면 효과가 발생하지 않습니다.	[!Mastery]If you are not damaged or lack $Rage$, the effect is not triggered.
-#20880	[!Mastery]$CharacterLevel$ 당 $Stat$[이] $Value$ 증가합니다.	[!Mastery]Increases $Stat$ by $Value$ for every $CharacterLevel$.
+#20880	[!Mastery]$CharacterLevel$ 당 공격력[이] $Value$ 증가합니다.	[!Mastery]Increases 공격력 by $Value$ for every $CharacterLevel$.
 #20881	[!Mastery]시야 내 적이 자신을 소환한 캐릭터에게 피해를 줄 시, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Reduces your $ActionTime$ by $Value$ if your summoner received the damage by the enemy's attack within your line of sight.
 #20882	[!Mastery]적을 $Dead$으로 만들면, 무작위의 상태 효과를 획득합니다.	[!Mastery]Grants random buff if a target is $Dead$ by your attack.
 #20883	[!Mastery]$Rage$ $Value$ 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Increases the damage dealt by $Value2$ for every $Value$ $Rage$.
@@ -13435,14 +13435,14 @@
 #20900	[!Mastery]감히 너가 우리 앤을!!	[!Mastery]How dare you do that to my Anne!!
 #20902	[!Mastery]앤이 최고야!!	[!Mastery]Anne you're the best!!
 #20904	[!Mastery]항상 $State$ 상태가 적용됩니다.	[!Mastery]$State$ state is applied at all times.
-#20905	[!Mastery]$Ability$로 공격 받을 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Increases the $Stat$ against the enemy's $Ability$ by $Value$. 
+#20905	[!Mastery]$Ability$로 공격 받을 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Increases the 공격력 against the enemy's $Ability$ by $Value$. 
 #20906	[!Mastery]근접 공격 어빌리티	[!Mastery]Melee attack ability
 #20907	[!Mastery]반경 $Value$칸 내의 대상은 $Buff$ 상태가 됩니다.	[!Mastery]Grants the $Buff$ to all targets within the radius of $Value$ tiles.
 #20908	[!Mastery]최대 훈련 점수를 $Value$ 증가시킵니다.	[!Mastery]Increases the maximum mastery point by $Value$.
-#20909	[!Mastery]$Time$, $Time2$, $Time3$에서 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]Increase your $Stat$, $Stat2$, $Stat3$, and $Stat4$ by $Value$ $Time$, $Time2$, and $Time3$.
+#20909	[!Mastery]$Time$, $Time2$, $Time3$에서 공격력, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]Increase your 공격력, $Stat2$, $Stat3$, and $Stat4$ by $Value$ $Time$, $Time2$, and $Time3$.
 #20910	[!Mastery]재료 아이템의 획득량이 $Value$ 증가합니다.	[!Mastery]Increases the chance of acquiring materials by $Value$.
 #20911	[!Mastery]자신이 받는 피해량이 자신의 체력의 $Value$를 초과하면, 자신의 체력의 $Value2$에 해당하는 피해만 받습니다.	[!Mastery]If incoming damage exceeds $Value$ of HP, you only take $Value2$ of HP as the damage.
-#20912	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$[이] 현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Value2$ 증가합니다.	[!Mastery]Increase your $Stat$, $Stat2$, $Stat3$, and $Stat4$ by $Value2$ for every $Value$ currently applied $Type$ masteries.
+#20912	[!Mastery]공격력, $Stat2$, $Stat3$, $Stat4$[이] 현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Value2$ 증가합니다.	[!Mastery]Increase your 공격력, $Stat2$, $Stat3$, and $Stat4$ by $Value2$ for every $Value$ currently applied $Type$ masteries.
 #20913	[!Mastery]반경 $Value$칸 내의 적에게 상태 효과가 발생하면, 자신에게도 동일한 상태 효과가 발생합니다.	[!Mastery]If any adversary get a buff within the radius of $Value$ tiles, the same is applied to you.
 #20916	[!Mastery]시전 지연 시간이 발생하는 어빌리티를 다음과 같이 강화합니다.	[!Mastery]Improve abilities which have cast delay time as follows.
 #20917	[!Mastery]$Fuel$ 소모량이 현재 사용하고 있는 모듈 $Value$개 당 $Value2$ 증가합니다.	[!Mastery]Increases the $Fuel$ consumption by $Value2$ for every $Value$ currently applied modules.
@@ -13507,8 +13507,8 @@
 #20982	[!Mastery]$Mastery$ 사용 시, $Overcharge$ 상태가 됩니다.	[!Mastery]Using $Mastery$ triggers $Overcharge$ state.
 #20983	[!Mastery]자신의 체력이 $Value$ 이하인 경우 모든 공격을 방어합니다.	[!Mastery]If HP is lower than $Value$, you block all incoming attacks.
 #20984	[!Mastery]해당 특성은 모든 전투 상황에서 우선합니다.	[!Mastery]The mastery is prioritized in all combats.
-#20985	[!Mastery]자신의 시야 내 아군보다 적이 많으면, $Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]$Stat$ further increases by $Value$ if there are more enemies than allies within your line of sight.
-#20986	[!Mastery]자신의 시야 내 적보다 아군이 많으면, $Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]If there are more allies than enemies within your line of sight, $Stat$ further increases by $Value$.
+#20985	[!Mastery]자신의 시야 내 아군보다 적이 많으면, 공격력[이] $Value$ 추가 증가합니다.	[!Mastery]공격력 further increases by $Value$ if there are more enemies than allies within your line of sight.
+#20986	[!Mastery]자신의 시야 내 적보다 아군이 많으면, 공격력[이] $Value$ 추가 증가합니다.	[!Mastery]If there are more allies than enemies within your line of sight, 공격력 further increases by $Value$.
 #20987	[!Mastery]$State$ 상태에서 적에게 치명타를 적중시키면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Under $State$ state, landing a critical strike on a target decreases $ActionTime$ by $Value$.
 #20988	[!Mastery]시야 내 적이 존재할 경우, 자신보다 높은 곳에 위치한 적이 없으면 $Buff$ 상태가 됩니다.	[!Mastery]If there is an adversary within the line of sight and none located above your elevation, you become $Buff$.
 #20990	[!Mastery]$Mastery$ 발동 시, 이동하는 장소가 현재 위치에서 $State$ 상태가 발생하는 가장 높은 위치로 변경됩니다.	[!Mastery]Activating $Mastery$ redirects your destination to a place with the highest elevation among $State$ occuring locations.
@@ -13559,11 +13559,11 @@
 #21037	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적을 공격하면, $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]If you are attacking a target while there are no allies within the radius of $Value$ tiles, $ActionTime$ decreases by $Value2$.
 #21038	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적에게 공격을 당할 경우, 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]If you are attacked while there are no allies within the radius of $Value$ tiles, damage taken decreases by $Value2$.
 #21040	[!Mastery]$Buff2$ 발생 효과가 $Buff$ 발생 효과로 변경되며 발생 확률이 $Value$ 증가합니다.	[!Mastery]$Buff2$ changes to $Buff$ and the chance of activation increases by $Value$. 
-#21041	[!Mastery]자신의 시야 내 적 $Value$명 당 $Stat$[이] $Value2$ 추가 증가합니다.	[!Mastery]$Stat$ further increases by $Value2$ per $Value$ enemies within your line of sight.
+#21041	[!Mastery]자신의 시야 내 적 $Value$명 당 공격력[이] $Value2$ 추가 증가합니다.	[!Mastery]공격력 further increases by $Value2$ per $Value$ enemies within your line of sight.
 #21042	[!Mastery]적 공격에 대해 $CounterAttack$을 시도할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]Attempting $CounterAttack$ brings about the following effects.
 #21043	[!Mastery]회피 시	[!Mastery]Dodginng
 #21044	[!Mastery]$CounterAttack$으로 자신이 주는 피해량이 $Value$ 증가합니다.	[!Mastery]Damage done by $CounterAttack$ increases by $Value$.
-#21045	[!Mastery]$BuffGroup$, $BuffGroup2$ 계열 상태 이상인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Attacking a $BuffGroup$, $BuffGroup2$ type debuffed target decreases the target's $Stat$ by $Value$.
+#21045	[!Mastery]$BuffGroup$, $BuffGroup2$ 계열 상태 이상인 적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Attacking a $BuffGroup$, $BuffGroup2$ type debuffed target decreases the target's 공격력 by $Value$.
 #21046	[!Mastery]$Mastery$ 발동으로 회복하는 체력이 $Value$ 증가합니다.	[!Mastery]Increases the recovered amount of HP by $Value$ which is triggered by $Mastery$ activation.
 #21047	[!Mastery]$Mastery$ 발동 시, $ActionTime$이 $Value$ 추가 감소합니다.	[!Mastery]Activating $Mastery$ further decreases $ActionTime$ by $Value$.
 #21048	[!Mastery]체력이 최대인 경우, 해당 효과가 $Value$ 감소합니다.	[!Mastery]At full HP, the effect decreases by $Value$.
@@ -13624,7 +13624,7 @@
 #21108	[!Mastery]적을 $Dead$으로 만들면, 모든 어빌리티의 재사용 대기 시간이 $Value$ 감소합니다.	[!Mastery]Putting a target $Dead$ decreases all ability cooldown by $Value$.
 #21109	[!Mastery]아군 전원 경험치 획득량이 $Value$ 증가합니다.	[!Mastery]All allies' EXP gain increases by $Value$.
 #21111	[!Mastery]$Buff$ 상태에서 추가 소모되는 $Vigor$이 $Value$ 감소합니다.	[!Mastery]Additionally consumed $Vigor$ when $Buff$ is active decreases by $Value$.
-#21112	[!Mastery]$Ability$로 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Attacking a target using $Ability$ decreases the target's $Stat$ by $Value$.
+#21112	[!Mastery]$Ability$로 적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Attacking a target using $Ability$ decreases the target's 공격력 by $Value$.
 #21113	[!Mastery]적에게 치명타를 적중시키면, 해당 적의 $Vigor$이 $Value$ 추가 감소합니다.	[!Mastery]Landing a critical strike on a target further decreases the target's $Vigor$ by $Value$.
 #21114	[!Mastery]$Mastery$ 발동으로 감소시킨 적의 $Vigor$만큼 자신의 $Vigor$을 회복합니다.	[!Mastery]Recovers your $Vigor$ by the same amount of the target's $Vigor$ you decreased by triggering $Mastery$.
 #21115	[!Mastery]적에게 공격을 당할 경우, 근접한 적에 대한 $Mastery$ 적용 범위가 반경 $Value$칸까지 확장됩니다.	[!Mastery]If you are attacked by an adversary, the effective range of $Mastery$ expands by the radius of $Value$ tiles.
@@ -13635,13 +13635,13 @@
 #21121	[!Mastery]$CounterAttack$으로 적을 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Putting a target $Dead$ by $CounterAttack$ decreases $ActionTime$ by $Value$.
 #21122	[!Mastery]적에게 치명타를 적중시키면, 해당 적은 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Landing a critical strike on a target increases the target's $ActionTime$ by $Value$.
 #21123	[!Mastery]$State$ 상태에서 $Ability$를 적에게 적중시키면, 해당 적은 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Under $State$ state, hitting a target with $Ability$ increases the target's $ActionTime$ by $Value$.
-#21124	[!Mastery]근접한 적으로부터 공격을 받을 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]If you take damage from a nearby foe, your $Stat$ increases by $Value$.
+#21124	[!Mastery]근접한 적으로부터 공격을 받을 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]If you take damage from a nearby foe, your 공격력 increases by $Value$.
 #21125	[!Mastery]근접한 적으로부터 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]Damage taken from a nearby foe decreases by $Value$.
 #21126	[!Mastery]사격 공격 어빌리티	[!Mastery]Shooting attack ability
 #21127	[!Mastery]$Ability$로 적을 공격하여 $Dead$이 된 적에게 $PoisonGas$[이] 발생합니다.	[!Mastery]Putting a target $Dead$ using $Ability$ causes the target to create $PoisonGas$.
 #21128	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$에게 공격을 적중시키면, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]Striking $Machine$ or $HeavyArmored$ with $Ability$ triggers $Buff$ on a target.
 #21129	[!Mastery]중갑을 입은 적	[!Mastery]Heavily armed adversary
-#21130	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$에게 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Striking $Machine$ or $HeavyArmored$ with $Ability$ increases $Stat$ by $Value$.
+#21130	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$에게 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Striking $Machine$ or $HeavyArmored$ with $Ability$ increases 공격력 by $Value$.
 #21132	[!Mastery]적의 공격으로부터 엄폐가 적용 될 경우, 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]If you can take cover from enemy attack, damage taken decreases by $Value$.
 #21133	[!Mastery]$Mastery$의 발동 가능 횟수가 $Value$회 증가합니다.	[!Mastery]Number limit on $Mastery$ activation increases by $Value$.
 #21134	[!Mastery]적의 공격으로부터 엄폐가 적용되는 위치에서 해당 적을 공격할 경우, 자신이 주는 피해량이 $Value$ 증가합니다.	[!Mastery]If you attack a target from a position where you can take cover from enemy attack, damage dealt increases by $Value$.
@@ -13673,7 +13673,7 @@
 #21164	[!Mastery]$Mastery$의 발동으로 적을 $Buff$ 상태로 만들면, 해당 대상의 반경 $Value$칸 내 엄폐 상태의 모든 적은 $Buff$ 상태가 됩니다.	[!Mastery]Triggering $Buff$ on a target as a result of $Mastery$ activation grants $Buff$ to all covering adversaries adjacent to the target by $Value$ tiles.
 #21165	[!Mastery]$State$ 혹은 $BuffGroup$ 중인 적 공격 시, 해당 적의 반경 $Value$칸 내 모든 적은 $Buff$ 상태가 됩니다.	[!Mastery]Attacking a target who is under $State$ state or $BuffGroup$ type debuff triggers $Buff$ on all adversaries adjacent to the target by $Value$ tiles .
 #21166	[!Mastery]$Mastery$ 발동에 의한 공격으로 적을 $Dead$으로 만들면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Putting a foe $Dead$ by $Mastery$ activation decreases $ActionTime$ by $Value$.
-#21167	[!Mastery]$Mastery$ 발동에 의한 공격으로 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Landing an attack initated by $Mastery$ activation on a target decreases the target's $Stat$ by $Value$.
+#21167	[!Mastery]$Mastery$ 발동에 의한 공격으로 적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Landing an attack initated by $Mastery$ activation on a target decreases the target's 공격력 by $Value$.
 #21168	[!Mastery]이전 행동에서 $Ability$를 사용한 후 다시 $Ability$를 사용하면, $ActionTime$이 추가 $Value$ 감소합니다.	[!Mastery]If you used $Ability$ prior to the turn and use $Ability$ again, $ActionTime$ further decreases by $Value$.
 #21169	[!Mastery]$Ability$로 공격 범위 내 적이 $Value$명 이상인 상황에서 적을 공격할 경우, 해당 공격으로 $Value$명 이상의 적을 $Dead$으로 만들면 모든 어빌리티 재사용 대기 시간이 $Value2$ 턴 감소합니다.	[!Mastery]Upon using $Ability$, if there are more than $Value$ targets within the range of $Ability$, putting $Dead$ to more than $Value$ targets decreases all ability cooldown by $Value2$.
 #21170	[!Mastery]$Ability$로 공격 범위 내 적이 $Value$명 이상인 상황에서 적을 공격할 경우, 공격 범위 내 모든 적을 $Dead$으로 만들지 못하면, 자신의 모든 어빌리티 재사용 대기 시간이 $Value2$ 턴 감소합니다.	[!Mastery]Upon using $Ability$, if you fail to put all $Value$ targets within the range of $Ability$ $Dead$, all ability cooldown decreases by $Value2$ turns.
@@ -13710,7 +13710,7 @@
 #21211	[!Mastery]$Buff$ 상태 $Value$개 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Damage increases by $Value2$ per $Value$ $Buff$.
 #21212	[!Mastery]$Buff$ 소모 시, 체력의 $Value$를 회복합니다.	[!Mastery]Consuming $Buff$ recovers HP by $Value$.
 #21213	[!Mastery]$Buff$ 소모 시, $Vigor$의 $Value$를 회복합니다.	[!Mastery]Consuming $Buff$ recovers $Vigor$ by $Value$.
-#21214	[!Mastery]$CharacterLevel$ 당 $Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]Increases $Stat$ by $Value$ for every $CharacterLevel$ additionally.
+#21214	[!Mastery]$CharacterLevel$ 당 공격력[이] $Value$ 추가 증가합니다.	[!Mastery]Increases 공격력 by $Value$ for every $CharacterLevel$ additionally.
 #21216	[!Mastery]부활 시, 바로 자신의 턴이 됩니다.	[!Mastery]Takes the turn right away as you revive.
 #21217	[!Mastery]부활한 자신의 시야 내 모든 아군은 $Buff$ 상태가 됩니다.	[!Mastery]All allies within your line of sight become $Buff$ as you revive.
 #21218	[!Mastery]$Buff$ 상태인 경우, 자신의 시야 내에서 아군이 $Dead$이 되면 바로 자신의 턴이 됩니다.	[!Mastery]While $Buff$ is active, if ally in the line of sight is put $Dead$, you take the turn right away.
@@ -13733,8 +13733,8 @@
 #21238	[!Mastery]$Ability$ 사용으로 생성되는 $SP$가 $Value$ 증가합니다.	[!Mastery]$SP$ gained by using $Ability$ increases by $Value$.
 #21239	[!Mastery]얼음 공격 어빌리티	[!Mastery]Ice attack ability
 #21240	[!Mastery]$Buff$ 상태인 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$개 회복합니다	[!Mastery]Putting a $Buff$ target $Dead$ recovers $Value$ $ActionPoint$.
-#21242	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 추가 증가합니다.	[!Mastery]Increases $Stat$, $Stat2$, $Stat3$ and $Stat4$ by $Value$ additionally.
-#21243	[!Mastery]$Stat$[이] $Stat2$의 $Value$만큼 추가 증가합니다.	[!Mastery]Increases $Stat$ by $Value$ of $Stat2$.
+#21242	[!Mastery]공격력, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 추가 증가합니다.	[!Mastery]Increases 공격력, $Stat2$, $Stat3$ and $Stat4$ by $Value$ additionally.
+#21243	[!Mastery]공격력[이] $Stat2$의 $Value$만큼 추가 증가합니다.	[!Mastery]Increases 공격력 by $Value$ of $Stat2$.
 #21244	[!Mastery]$Ability$를 적에게 적중시키면, 해당 적에게 $Buff$ 상태가 발생할 확률이 $Value$ 추가 증가합니다.	[!Mastery]Attacking a target using $Ability$ further increases the chance of triggering $Buff$ on the target by $Value$.
 #21245	[!Mastery]대지 공격 어빌리티	[!Mastery]Earth attack ability
 #21246	[!Mastery]미션 진행 중 $Value$회에 한하여 $Dead$에 이르는 피해를 무효화합니다.	[!Mastery]During mission, you have $Value$ chance(s) to cancel the damage sufficient to put you $Dead$.
@@ -13772,8 +13772,8 @@
 #21281	[!Mastery]이동 공격	Dashing attack
 #21282	[!Mastery]$Mastery$ 발동으로 충전되는 $Fuel$가 $Value$ 증가합니다.	[!Mastery]Increases the charged amount of $Fuel$ by $Value$ which is triggered by $Mastery$ activation.
 #21283	[!Mastery]$SP$ 획득량이 $Value$ 증가합니다.	[!Mastery]$SP$ gain increases by $Value$.
-#21286	[!Mastery]이동 없이 공격하면, 기체의 남은 적재 가능 하중 $Value$ 당 적의 $Stat$[이] $Value2$ 감소합니다.	[!Mastery]Attacking a target without moving decreases the target's $Stat$ by $Value2$ per $Value$ of total spare loadable weight of a frame.
-#21287	[!Mastery]이동 없이 공격하면, 기체의 총 무게 $Value$ 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]Attacking a target without moving increases $Stat$ by $Value2$ per $Value$ of total weight of a frame.
+#21286	[!Mastery]이동 없이 공격하면, 기체의 남은 적재 가능 하중 $Value$ 당 적의 공격력[이] $Value2$ 감소합니다.	[!Mastery]Attacking a target without moving decreases the target's 공격력 by $Value2$ per $Value$ of total spare loadable weight of a frame.
+#21287	[!Mastery]이동 없이 공격하면, 기체의 총 무게 $Value$ 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]Attacking a target without moving increases 공격력 by $Value2$ per $Value$ of total weight of a frame.
 #21290	[!Mastery]모든 $Fuel$ 소모량이 $Value$ 추가 감소합니다.	[!Mastery]Reduces all $Fuel$ consumption by $Value$ additionally.
 #21291	[!Mastery]$Mastery$의 발동으로 충전되는 $Fuel$가 $Value$ 증가합니다.	[!Mastery]The amount of $Fuel$ charged by $Mastery$ activation increases by $Value$.
 #21292	[!Mastery]어빌리티 사용에 필요한 $Cost$[이] $Value$ 감소합니다.	[!Mastery]$Cost$ needed for ability decreases by $Value$.
@@ -13831,10 +13831,10 @@
 #21348	[!Mastery]$Ability$ 사용 시, $Buff$ 상태가 됩니다.	[!Mastery]Upon using $Ability$, $Buff$ is triggered.
 #21349	[!Mastery]$Type$ 장비 슬롯이 활성화 됩니다.	[!Mastery]$Type$ equipment slot becomes available.
 #21350	[!Mastery]$Type$ 장비 슬롯과 동일한 아이템을 장착할 수 없습니다.	[!Mastery]You cannot equip an item identical to $Type$ equipment slot.
-#21351	[!Mastery]기체의 총 무게 $Value$ 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ of total weight of the frame.
-#21352	[!Mastery]기체의 남은 적재 가능 하중 $Value$ 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]For every $Value$ of total spare loadable weight of the frame, your $Stat$ increases by $Value2$.
-#21353	[!Mastery]$Time$, $Time2$, $Time3$에서 $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]At $Time$, $Time2$, and $Time3$, $Stat$ and $Stat2$ increase by $Value$.
-#21354	[!Mastery]장착한 장비의 $Stat$, $Stat2$, $Stat3$, $Stat4$, $Stat5$[이] $Value$ 증가합니다.	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$, $Stat5$ of equipped equpiments increase by $Value$.
+#21351	[!Mastery]기체의 총 무게 $Value$ 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ of total weight of the frame.
+#21352	[!Mastery]기체의 남은 적재 가능 하중 $Value$ 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]For every $Value$ of total spare loadable weight of the frame, your 공격력 increases by $Value2$.
+#21353	[!Mastery]$Time$, $Time2$, $Time3$에서 공격력, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]At $Time$, $Time2$, and $Time3$, 공격력 and $Stat2$ increase by $Value$.
+#21354	[!Mastery]장착한 장비의 공격력, $Stat2$, $Stat3$, $Stat4$, $Stat5$[이] $Value$ 증가합니다.	[!Mastery]공격력, $Stat2$, $Stat3$, $Stat4$, $Stat5$ of equipped equpiments increase by $Value$.
 #21356	[!Mastery]이동 없이 공격하면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Attacking a target without moving decreases $ActionTime$ by $Value$.
 #21357	[!Mastery]$Weapon$로 적에게 치명타를 적중시키면, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]Landing a critical strike on a target with $Weapon$ triggers $Buff$ on the target.
 #21358	[!Mastery]$Weapon$로 적에게 치명타를 적중시키면, 해당 적은 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Landing a critical strike on a target with $Weapon$ increases the target's $ActionTime$ by $Value$.
@@ -13845,7 +13845,7 @@
 #21365	[!Mastery]반경 $Value$칸 내의 아군이 $Dead$에 이르는 치명적인 피해를 입을 시, 해당 아군 주위로 이동 가능한 상태이면, 미션 진행 중 $Value2$회에 한하여 해당 아군에게 이동 후 해당 아군을 긴급 구조합니다. 해당 특성 발동 시 연료를 $Value3$ 소모합니다.	[!Mastery]If an ally within the radius of $Value$ tiles takes damage that is sufficient to put it $Dead$, and if nothing hinders you from approaching the ally, for $Value2$ chances during a mission, you can approach and rescue the ally. Activating the mastery costs $Value3$ fuel.
 #21366	[!Mastery]긴급 구조된 아군은 $Buff$ 상태로 부활하며, 자신의 체력의 $Value$를 회복하고 바로 자신의 행동 턴이 됩니다.	[!Mastery]Rescued ally revives with $Buff$, recovers $Value$ of HP and takes the turn right away.
 #21367	[!Mastery]대상이 기계이거나 소모할 연료가 없을 경우 발동하지 않습니다.	[!Mastery]If a target is a machine or it lacks the fuel to be consumed, the effect is not triggered.
-#21368	[!Mastery]적에게 공격 받을 경우, 적의 최종 $Stat$[이] 반으로 감소합니다.	[!Mastery]If you are attacked by an adversary, the target's $Stat$ halves.
+#21368	[!Mastery]적에게 공격 받을 경우, 적의 최종 공격력[이] 반으로 감소합니다.	[!Mastery]If you are attacked by an adversary, the target's 공격력 halves.
 #21369	[!Mastery]자신이 받는 피해량이 자신의 체력의 $Value$ 미만이면, 해당 피해를 무효화하고 $Fuel$를 $Value2$ 소모합니다.	[!Mastery]If incoming damage falls behind $Value$ of HP, the damage is canceled at the expense of $Value2$ $Fuel$.
 #21370	[!Mastery]자신이 받는 피해량이 자신의 체력의 $Value$를 초과하면, 자신의 체력의 $Value$에 해당하는 피해만 받고 $Fuel$를 $Value2$ 소모합니다.	[!Mastery]If incoming damage exceeds $Value$ of HP, you only take $Value$ of HP as the damage at the expense of $Value2$ $Fuel$.
 #21371	[!Mastery]해킹될 확률이 $Value$ 감소합니다.	[!Mastery]Reduces the chance of being hacked by $Value$.
@@ -13856,7 +13856,7 @@
 #21377	[!Mastery]$Fuel$가 고갈되면 $Buff$ 상태가 됩니다.	[!Mastery]Running out of $Fuel$ triggers $Buff$.
 #21378	[!Mastery]적 정보량에 따른 전투 효과가 $Value$ 증가합니다.	[!Mastery]Combat effect increases by $Value$ in respect to the amount of information on enemy.
 #21379	[!Mastery]자신이 받는 피해의 속성과 이전에 받은 피해의 속성이 동일하면, 현재 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]If incoming damage type is identical to the previous damage type, damage taken decreases by $Value$.
-#21380	[!Mastery]아군의 이전 공격을 회피 혹은 방어한 적을 공격할 경우, $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target who dodged or blocked allies' previous attacks increases $Stat$, $Stat2$ by $Value$.
+#21380	[!Mastery]아군의 이전 공격을 회피 혹은 방어한 적을 공격할 경우, 공격력, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target who dodged or blocked allies' previous attacks increases 공격력, $Stat2$ by $Value$.
 #21382	[!Mastery]$ActionPoint$을 $Value$ 회복합니다.	[!Mastery]Recovers $ActionPoint$ by $Value$.
 #21383	[!Mastery]모든 어빌리티 재사용 대기 시간이 $Value$ 감소합니다	[!Mastery]Cooldown for all abilities decreases by $Value$.
 #21384	[!Mastery]$Fuel$를 $Value$ 소모합니다.	[!Mastery]Consumes $Value$ $Fuel$.
@@ -13875,13 +13875,13 @@
 #21399	[!Mastery]$Mastery$의 발동으로 이동을 할 경우, $Fuel$를 $Value$ 소모합니다.	[!Mastery]Consumes $Fuel$ by $Value$ when you move by activating $Mastery$.
 #21400	[!Mastery]$RushMove$ 혹은 $RushAttack$으로 $Value$칸 이상 이동하면 $ActionTime$이 $Value2$만큼 감소합니다.	[!Mastery]Moving more than $Value$ tiles using $RushMove$ or $RushAttack$ decreases $ActionTime$ by $Value2$.
 #21401	[!Mastery]자신을 소환한 캐릭터의 $Mastery$ 특성으로부터 부여받았습니다.	[!Mastery]Granted $Mastery$ mastery from the summoner.
-#21402	[!Mastery]적에게 공격을 받을 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]If you are attacked by an adversary, the adversary's $Stat$ decreases by $Value$.
+#21402	[!Mastery]적에게 공격을 받을 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]If you are attacked by an adversary, the adversary's 공격력 decreases by $Value$.
 #21403	[!Mastery]자신을 $Dead$으로 만든 대상은 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Target that put you $Dead$ has its $ActionTime$ increased by $Value$.
 #21407	[!Mastery]캐릭터의 체력이 최대 수치이면 다음과 같은 효과가 발생합니다.	[!Mastery]If your character's HP is at its maximum, the following effects take place.
 #21408	[!Mastery]턴 종료 시	[!Mastery]At the end of your turn.
 #21409	[!Mastery]자신보다 레벨이 높은 대상에게 자신이 주는 피해량이 $Value$ 증가합니다.	[!Mastery]Damage done to an enemy of higher level increases by $Value$.
 #21411	[!Mastery]자신보다 레벨이 낮은 대상에게 자신이 주는 피해량이 $Value$ 증가합니다.	[!Mastery]Damage done to an enemy of lower level increases damage dealt by $Value$.
-#21412	[!Mastery]이동 후 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target after moving increases $Stat$ by $Value$.
+#21412	[!Mastery]이동 후 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target after moving increases 공격력 by $Value$.
 #21413	[!Mastery]반경 $Value$칸 내 자신이 소환한 대상 혹은 $Buff$ 상태의 대상이 존재하면 $Buff2$ 상태가 됩니다.	[!Mastery]If there exists any subject you summoned or $Buff$ subject within the radius of $Value$ tiles, you become $Buff2$ state.
 #21414	[!Mastery]$BuffGroup$ 계열 상태 이상일 경우	[!Mastery]If you are debuffed by $BuffGroup$ type
 #21416	[!Mastery]$BuffGroup$ 계열 상태 이상이 아닐 경우	[!Mastery]If a debuff is not $BuffGroup$ type
@@ -13902,7 +13902,7 @@
 #21431	[!Mastery]$State$ 상태에서 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]Under $State$ state, putting a target $Dead$ recovers $ActionPoint$ by $Value$.
 #21432	[!Mastery]$RushMove$ 혹은 $RushAttack$으로 $Value$칸 이상 이동하면 $Buff$ 상태가 됩니다.	[!Mastery]Traveling more than $Value$ tiles using $RushMove$ or $RushAttack$ triggers $Buff$.
 #21433	[!Mastery]$Buff$ 상태에서 $Buff$ 상태의 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]Putting a $Buff$ target $Dead$ while you are in $Buff$ recovers $ActionPoint$ by $Value$.
-#21434	[!Mastery]$Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Increases $Stat$, $Stat2$ by $Value$.
+#21434	[!Mastery]공격력, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Increases 공격력, $Stat2$ by $Value$.
 #21435	[!Mastery]$Buff$, $Buff2$ 지형 효과를 받은 상태에서 $Buff$, $Buff2$ 지형 효과를 받는 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]While buffed by $Buff$, $Buff2$ field effects, putting $Dead$ a target who is also receiving bonuses from $Buff$, $Buff2$ field effects recovers $ActionPoint$ by $Value$.
 #21436	[!Mastery]$Buff$ 지형 효과를 받은 상태에서 $Buff$ 지형 효과를 받는 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]While buffed by $Buff$ field effect, putting $Dead$ a target who is also receiving bonuses from $Buff$ field effect recovers $ActionPoint$ by $Value$.
 #21437	[!Mastery]$Buff$ 지형 효과를 받은 상태에서 $Buff$ 지형 효과를 받지 않는 적을 공격하여 $Dead$으로 만들면, $ActionPoint$을 $Value$ 회복합니다	[!Mastery]While buffed by $Buff$ field effect, putting $Dead$ a target who is not receiving bonuses from $Buff$ field effect recovers $ActionPoint$ by $Value$.
@@ -13917,7 +13917,7 @@
 #21447	[!Mastery]$Type$ 아이템을 장착할 수 없습니다. 	[!Mastery]You cannot equip $Type$ item. 
 #21449	[!Mastery]아이템 사용 시, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Using an item decreases $ActionTime$ by $Value$.
 #21452	[!Mastery]$SummonBeast$에게 $Mastery$ 특성을 부여합니다.	[!Mastery]Grants $Mastery$ to $SummonBeast$.
-#21453	[!Mastery]$Stat$[이] $Stat2$만큼 증가합니다.	[!Mastery]$Stat$ increases as much as $Stat2$.
+#21453	[!Mastery]공격력[이] $Stat2$만큼 증가합니다.	[!Mastery]공격력 increases as much as $Stat2$.
 #21454	[!Mastery]$Ability$ 사용 시, 회복량이 $Value$ 증가합니다.	[!Mastery]Upon using $Ability$, HP recovery increases by $Value$.
 #21455	[!Mastery]현재 사용하고 있는 특성 속성 별 총 훈련 점수 $Value$ 당 다음과 같은 효과가 발생합니다.	[!Mastery]The following effects occur for every $Value$ total training points of each currently applied mastery porperty.
 #21456	[!Mastery]모든 적의 시야에 노출되지 않은 상태에서 자신의 시야 내 적이 보이면 다음과 같은 효과가 발생합니다.	[!Mastery]While not detected by any adversary, if you catch a target in your line of sight, the following effects take place.
@@ -13931,22 +13931,22 @@
 #21464	[!Mastery]$RushMove$ 혹은 $RushAttack$으로 $Value$칸 이상 이동하면 $SP$가 $Value2$ 증가합니다.	[!Mastery]Traveling more than $Value$ tiles using $RushMove$ or $RushAttack$ increases $SP$ by $Value2$.
 #21466	[!Mastery]$Buff$ 상태를 억제하는 $Buff2$[을] $Value$개 생성합니다.	[!Mastery]Creates $Value$ $Buff2$ which inhibits $Buff$.
 #21467	[!Mastery]시야 내 아군이 적을 공격하여 $Dead$으로 만들면, $Buff$ 상태가 됩니다.	[!Mastery]If an ally within the line of sight puts an adversary $Dead$, you become $Buff$.
-#21468	[!Mastery]시야 내 가장 잃은 체력이 많은 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target with the most HP loss within the line of sight increases $Stat$ by $Value$.
+#21468	[!Mastery]시야 내 가장 잃은 체력이 많은 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target with the most HP loss within the line of sight increases 공격력 by $Value$.
 #21469	[!Mastery]체력을 잃지 않은 적에게는 적용되지 않습니다.	[!Mastery]Inapplicable to an unharmed target.
-#21470	[!Mastery]자신의 시야 내 적 $Value$명 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ enemies within your line of sight.
-#21471	[!Mastery]시야 내 목표 대상이 하나인 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]If there is a single target within the line of sight, your $Stat$ increases by $Value$.
-#21472	[!Mastery]아군의 이전 공격을 회피한 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target dodged or blocked allies' previous attacks increases $Stat$ by $Value$.
-#21473	[!Mastery]아군의 이전 공격에 피해를 입은 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target harmed by allies' previous attacks increases $Stat$ by $Value$.
-#21474	[!Mastery]자신의 시야 내 아군보다 적이 많으면, $Stat$[이] $Value$ 증가합니다.	[!Mastery]$Stat$ increases by $Value$ if there are more enemies than allies within your line of sight.
-#21475	[!Mastery]자신의 시야 내 적보다 아군이 많으면, $Stat$[이] $Value$ 증가합니다.	[!Mastery]If there are more allies than enemies within your line of sight, $Stat$ increases by $Value$.
+#21470	[!Mastery]자신의 시야 내 적 $Value$명 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ enemies within your line of sight.
+#21471	[!Mastery]시야 내 목표 대상이 하나인 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]If there is a single target within the line of sight, your 공격력 increases by $Value$.
+#21472	[!Mastery]아군의 이전 공격을 회피한 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target dodged or blocked allies' previous attacks increases 공격력 by $Value$.
+#21473	[!Mastery]아군의 이전 공격에 피해를 입은 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target harmed by allies' previous attacks increases 공격력 by $Value$.
+#21474	[!Mastery]자신의 시야 내 아군보다 적이 많으면, 공격력[이] $Value$ 증가합니다.	[!Mastery]공격력 increases by $Value$ if there are more enemies than allies within your line of sight.
+#21475	[!Mastery]자신의 시야 내 적보다 아군이 많으면, 공격력[이] $Value$ 증가합니다.	[!Mastery]If there are more allies than enemies within your line of sight, 공격력 increases by $Value$.
 #21476	[!Mastery]자신의 시야 내 적보다 아군이 많으면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]If there are more allies than enemies within your line of sight, $ActionTime$ decreases by $Value$.
 #21477	[!Mastery]시야 내 적이 없으면 발동하지 않습니다.	[!Mastery]Inactive if there are no targets within the line of sight.
-#21478	[!Mastery]자신의 시야 내 아군 $Value$명 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ allies within your line of sight.
-#21479	[!Mastery]인접한 타일에 아군이 있으면 $Stat$[이] $Value$ 증가합니다.	[!Mastery]If there is an ally within nearby tiles, $Stat$ increases by $Value$.
-#21480	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적을 공격하면, $Stat$[이] $Value2$ 증가합니다.	[!Mastery]If you are attack a target while there are no allies within the radius of $Value$ tiles, $Stat$ increases by $Value2$.
-#21482	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]Increases $Stat$, $Stat2$, $Stat3$ and $Stat4$ by $Value$.
-#21483	[!Mastery]$BuffGroup$ 계열 상태인 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a $BuffGroup$ type debuffed target increases $Stat$ by $Value$.
-#21484	[!Mastery]$State$, $State2$ 상태 시, $Stat$[이] $Value$ 추가 증가합니다.	[!Mastery]Under $State$, $State2$ state, $Stat$ further increases by $Value$.
+#21478	[!Mastery]자신의 시야 내 아군 $Value$명 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ allies within your line of sight.
+#21479	[!Mastery]인접한 타일에 아군이 있으면 공격력[이] $Value$ 증가합니다.	[!Mastery]If there is an ally within nearby tiles, 공격력 increases by $Value$.
+#21480	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적을 공격하면, 공격력[이] $Value2$ 증가합니다.	[!Mastery]If you are attack a target while there are no allies within the radius of $Value$ tiles, 공격력 increases by $Value2$.
+#21482	[!Mastery]공격력, $Stat2$, $Stat3$, $Stat4$[이] $Value$ 증가합니다.	[!Mastery]Increases 공격력, $Stat2$, $Stat3$ and $Stat4$ by $Value$.
+#21483	[!Mastery]$BuffGroup$ 계열 상태인 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a $BuffGroup$ type debuffed target increases 공격력 by $Value$.
+#21484	[!Mastery]$State$, $State2$ 상태 시, 공격력[이] $Value$ 추가 증가합니다.	[!Mastery]Under $State$, $State2$ state, 공격력 further increases by $Value$.
 #21485	[!Mastery]$Mastery$, $Mastery2$에 면역이 됩니다.	[!Mastery]Becomes immune to $Mastery$, $Mastery2$.
 #21490	[!Mastery]$ActionTime$이 $Value$ 증가합니다.	[!Mastery]Increases your $ActionTime$ by $Value$.
 #21491	[!Mastery]$Ability$가 없는 경우, 해당 특성은 발동하지 않습니다.	[!Mastery]If you do not have $Ability$, the mastery is not triggered.
@@ -13971,13 +13971,13 @@
 #21515	[!Mastery]전투시 소모되는 의욕 감소량이 $Value$ 감소합니다.	[!Mastery]Ambition consumed by engaging in a combat decreases by $Value$.
 #21516	[!Mastery]의욕이 $Value$ 이상이면 $Buff$ 상태가 됩니다.	[!Mastery]If your vigor is greater than $Value$, you become $Buff$.
 #21517	[!Mastery]$Type$ 아이템 획득 확률이 $Value$ 증가합니다.	[!Mastery]Chance of acquiring $Type$ type items increases by $Value$.
-#21518	[!Mastery]$BuffGroup$ 계열 상태가 되면, $Stat$[이] $Value$ 증가합니다.	[!Mastery]If you are debuffed by $BuffGroup$ type,  $Stat$ increases by $Value$.
-#21521	[!Mastery]자신의 등급보다 낮은 등급의 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target of lower rank increases $Stat$ by $Value$.
+#21518	[!Mastery]$BuffGroup$ 계열 상태가 되면, 공격력[이] $Value$ 증가합니다.	[!Mastery]If you are debuffed by $BuffGroup$ type,  공격력 increases by $Value$.
+#21521	[!Mastery]자신의 등급보다 낮은 등급의 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target of lower rank increases 공격력 by $Value$.
 #21522	[!Mastery]$BuffGroup$ 계열 상태에서 상태 효과가 발생하면, 무작위의 아군 $Value$명에게 해당 상태 효과가 발생합니다.	[!Mastery]If you trigger status effect while you are debuffed by $BuffGroup$ type, the same status effect applies to $Value$ random allies.
 #21523	[!Mastery]해당 특성 발동으로 부여된 상태 효과에는 발동되지 않습니다.	[!Mastery]The mastery is inactive to status effect granted by the mastery.
 #21524	[!Mastery]$Race$인 대상과 전투 시, 다음과 같은 효과가 발생합니다.	[!Mastery]Engaging in a battle with $Race$ type brings about the following effect.
-#21525	[!Mastery]$Stat$[이] $Value$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ and $Stat2$ increase by $Value$ and $Value2$, respectively.
-#21526	[!Mastery]$State$ 상태에서 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Under $State$ state, attacking a target increases $Stat$ by $Value$.
+#21525	[!Mastery]공격력[이] $Value$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]공격력 and $Stat2$ increase by $Value$ and $Value2$, respectively.
+#21526	[!Mastery]$State$ 상태에서 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Under $State$ state, attacking a target increases 공격력 by $Value$.
 #21527	[!Mastery]$Buff$ 상태에서 턴을 시작하면 목표거리 명중률 페널티를 받지 않습니다.	[!Mastery]If a turn begins while $Buff$ is active, distance penalty on target hit chance becomes inactive.
 #21528	[!Mastery]$Buff$ 상태에서 턴을 시작하여 $Buff$ 상태로 턴을 종료할 경우 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]$ActionTime$ is reduced by $Value$ when both starting and ending the turn in $Buff$.
 #21530	[!Mastery]$Buff$, $Buff2$ 지형에서 턴을 시작하면 목표거리 명중률 페널티를 받지 않습니다.	[!Mastery]Starting a turn in $Buff$, $Buff2$ field nullifies distance penalty on target hit chance.
@@ -14019,8 +14019,8 @@
 #21574	[!Mastery]$Mastery$ 발동에 의한 $ResponsiveAttack$으로 적을 공격할 경우, $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Attacking a foe with $ResponsiveAttack$ initiated by $Mastery$ activation increases $ActionTime$ by $Value$.
 #21575	[!Mastery]이전 행동에서 $Ability$ 사용한 후 다시 $Ability$를 사용하면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]If you used $Ability$ prior to the turn and use $Ability$ again, $ActionTime$ decreases by $Value$.
 #21577	[!Mastery]$Buff$ 효과가 발생하는 지형을 이탈하여도 $Value$ 턴 동안 유지됩니다.	[!Mastery]Even if you leave the field that grants $Buff$, the bonus is maintained for $Value$ turns.
-#21578	[!Mastery]$Ability$로 엄폐 상태의 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target in cover using $Ability$ increases $Stat$ by $Value$.
-#21579	[!Mastery]$Ability$로 엄폐 상태의 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Attacking a target in cover using $Ability$ decreases the target's $Stat$ by $Value$.
+#21578	[!Mastery]$Ability$로 엄폐 상태의 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target in cover using $Ability$ increases 공격력 by $Value$.
+#21579	[!Mastery]$Ability$로 엄폐 상태의 적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Attacking a target in cover using $Ability$ decreases the target's 공격력 by $Value$.
 #21580	[!Mastery]$Ability$로 체력을 회복시킨 대상의 정신적 상태 이상이 해제됩니다.	[!Mastery]Recovering a target using $Ability$ lifts mental debuffs on the target.
 #21581	[!Mastery]자신을 $Dead$으로 만든 대상을 $Buff$ 상태로 만듭니다.	[!Mastery]Target that put you $Dead$ is granted $Buff$.
 #21582	[!Mastery]$Value$칸 내 $FieldEffect$ 지형 $Value$개 당 $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]$ActionTime$ decreases by $Value2$ for every $Value$ $FieldEffect$ field(s) within $Value$ tiles.
@@ -14028,24 +14028,24 @@
 #21584	[!Mastery]$Time$, $Time2$에서 다음과 같은 효과가 발생합니다.	[!Mastery]At $Time$ and $Time2$, following effects occur.
 #21585	[!Mastery]$Overcharge$ 상태에서 $SP$를 획득하면 $ActionTime$이 획득한 $SP$만큼 감소합니다.	[!Mastery]If you gain $SP$ while $Overcharge$ state is triggered, $ActionTime$ decreases by the amount of earned $SP$.
 #21586	[!Mastery]$Ability$를 적에게 적중시키면, 해당 적에게 $Value$ 확률로 $Buff$ 상태가 발생합니다.	[!Mastery]Attacking a target using $Ability$ has $Value$ chance to trigger $Buff$ on the target.
-#21587	[!Mastery]자신의 잃은 체력의 $Value$ 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ of lost HP.
+#21587	[!Mastery]자신의 잃은 체력의 $Value$ 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ of lost HP.
 #21589	[!Mastery]부활시, $Buff$ 상태가 됩니다.	[!Mastery]Revive with $Buff$.
 #21590	[!Mastery]자신보다 레벨이 높은 대상으로부터 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]Damage taken from an enemy of higher level decreases by $Value$.
-#21591	[!Mastery]$State$ 상태에서 적에게 공격을 받을 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Under $State$ state, taking damage increases $Stat$ by $Value$.
+#21591	[!Mastery]$State$ 상태에서 적에게 공격을 받을 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Under $State$ state, taking damage increases 공격력 by $Value$.
 #21592	[!Mastery]자신의 체력이 $Value$ 이하이면, 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]Reduces the damage taken by $Value2$ if your HP is lower than $Value$.
 #21593	[!Mastery]자신의 체력이 $Value$ 이하이면 발동하지 않습니다.	[!Mastery]If HP is lower than $Value$, the mastery is inactive.
 #21594	[!Mastery]$Dead$이 되면 반경 $Value$칸 내 아군은 $ActionTime$이 $Value2$ 감소하고 $Buff$ 상태가 됩니다.	[!Mastery]Turning $Dead$ decreases $ActionTime$ of allies within $Value$ tiles by $Value2$ and triggers $Buff$ on them.
 #21595	[!Mastery]적으로부터 공격을 받을 경우, $State$[와] $State2$[을] 허용하지 않습니다.	[!Mastery]Upon assaulted, you do not become either $State$ or $State2$.
 #21597	[!Mastery]모든 피해량이 $Value$ 감소합니다.	[!Mastery]Reduces all damage taken by $Value$.
-#21598	[!Mastery]$Buff$ 지형 효과가 적용되는 위치에서 $Stat$[이] $Value$ 증가합니다.	[!Mastery]Locating within the effective range of $Buff$ field effect increases $Stat$ by $Value$.
+#21598	[!Mastery]$Buff$ 지형 효과가 적용되는 위치에서 공격력[이] $Value$ 증가합니다.	[!Mastery]Locating within the effective range of $Buff$ field effect increases 공격력 by $Value$.
 #21599	[!Mastery]자신의 턴마다 적의 $ResponsiveAttack$[을] 최초 한 번 무조건 회피합니다.	[!Mastery]For each of your turn, you at least dodge the first $ResponsiveAttack$ performed by an adversary.
 #21600	[!Mastery]$Dead$에 이르는 치명적인 피해를 입을 시, $Value$ 확률로 체력을 모두 회복하고 부활하며 $Buff$ 상태가 됩니다.	[!Mastery]If you take damage that can put you $Dead$, you have $Value$ chance to revive, recovering full HP, and become $Buff$. 
 #21601	[!Mastery]턴 종료 시, 다음과 같은 효과가 발생합니다.	[!Mastery]At the end of a turn, the following effects take place.
 #21602	[!Mastery]엄폐 상태가 아니고 시야 내 적이 존재하는 경우, $Value$칸 내 엄폐 가능한 장소가 존재하면 해당 지점으로 이동한 후 엄폐합니다.	[!Mastery]If you haven't taken cover and there is an adversary within the line of sight, granted that there is a place to hide within $Value$ tiles, you move to the location and take cover.
 #21603	[!Mastery]엄폐가 불가능하거나 현재 위치를 유지해야 하는 경우 발동하지 않습니다.	[!Mastery]The mastery is inactive if you cannot take cover or have to hold position.
-#21605	[!Mastery]$Buff$ 상태에서 $Stat$[이] $Value$ 증가합니다.	[!Mastery]Under $Buff$, $Stat$ increases by $Value$.
+#21605	[!Mastery]$Buff$ 상태에서 공격력[이] $Value$ 증가합니다.	[!Mastery]Under $Buff$, 공격력 increases by $Value$.
 #21606	[!Mastery]미션 진행 중 $Value$회에 한하여 $Dead$에 이르는 치명적인 피해를 입을 시, $Value2$의 체력을 회복하고 부활하며 $Buff$ 상태가 됩니다.	[!Mastery]During mission, if you take damage sufficient to put you $Dead$, you are granted with $Value$ chances to revive, recover $Value2$ of HP, become $Buff$.
-#21607	[!Mastery]$Buff$, $Buff2$ 지형 효과가 적용되는 위치에서 $Stat$[이] $Value$ 증가합니다.	[!Mastery]Locating within the effective range of $Buff$, $Buff2$ field effects increases $Stat$ by $Value$.
+#21607	[!Mastery]$Buff$, $Buff2$ 지형 효과가 적용되는 위치에서 공격력[이] $Value$ 증가합니다.	[!Mastery]Locating within the effective range of $Buff$, $Buff2$ field effects increases 공격력 by $Value$.
 #21608	[!Mastery]자신의 체력이 회복되면 $Vigor$이 $Value$ 회복되고 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]When your HP recovers, $Vigor$ recovers by $Value$ and $ActionTime$ decreases by $Value$.
 #21609	[!Mastery]적에게 피해를 입을 시, 대상의 상태 효과 중 $Value$개를 복사합니다.	[!Mastery]If you get hit by an enemy, you copy $Value$ status effects from the enemy.
 #21610	[!Mastery]적의 공격 시도에 맞서 근접 공격으로 $CounterAttack$을 가합니다.	[!Mastery]$CounterAttack$ the enemy attack with melee attack.
@@ -14060,9 +14060,9 @@
 #21620	[!Mastery]피해량이 $Value$ 감소합니다.	[!Mastery]Reduces the damage taken by $Value$.
 #21621	[!Mastery]피해량이 체력의 $Value$를 넘지 않으면 무효화 됩니다.	[!Mastery]If incoming damage does not excced $Value$ of HP, the damage is canceled.
 #21622	[!Mastery]근접한 적의 공격으로 피해를 입을 경우, 해당 적에게 무작위의 $BuffGroup$ 계열 상태 이상이 발생합니다.	[!Mastery]If you take damage from a nearby foe, the attacker is inflicted by a random $BuffGroup$ type debuff.
-#21623	[!Mastery]자신보다 체력이 낮은 적에게 공격 받을 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Taking damage from an enemy of lower HP increases $Stat$ by $Value$.
+#21623	[!Mastery]자신보다 체력이 낮은 적에게 공격 받을 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Taking damage from an enemy of lower HP increases 공격력 by $Value$.
 #21624	[!Mastery]$Mastery$, $Mastery2$ 특성 혹은 $Mastery3$ 모듈을 보유한 적에게는 적용되지 않습니다.	[!Mastery]Ineffective to adversaries possesing $Mastery$, $Mastery2$ mastery or $Mastery3$ module.
-#21625	[!Mastery]자신보다 체력이 높은 적에게 공격 받을 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Taking damage from an enemy of higher HP increases $Stat$ by $Value$.
+#21625	[!Mastery]자신보다 체력이 높은 적에게 공격 받을 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Taking damage from an enemy of higher HP increases 공격력 by $Value$.
 #21626	[!Mastery]자신이 받는 피해 속성이 이전에 받은 피해 속성과 동일한 경우, 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]If incoming damage type is identical to the previous damage type, damage taken decreases by $Value$.
 #21628	[!Mastery]$Dead$에 이르는 치명적인 피해를 입을 시, $Mastery$을 시도합니다.	[!Mastery]If you take damage that can put you $Dead$, $Mastery$ is triggered.
 #21629	[!Mastery]시야 내 자신의 레벨보다 낮은 $Grade$ 이상의 $Draky$를 찾아 해당 $Draky$ 주위로 이동하여 대상을 공격합니다. 	[!Mastery]Track and approach $Draky$ above $Grade$ whose level is lower than you. Then attack the $Draky$.
@@ -14077,10 +14077,10 @@
 #21638	[!Mastery]모든 체력이 회복되며, 바로 자신의 턴이 됩니다.	[!Mastery]Fully recovers HP and takes the turn right away.
 #21639	[!Mastery]자신의 턴이 시작할 때마다 물리적 상태 이상을 $Value$개 해제합니다.	[!Mastery]At the beginninng of your turn, $Value$ physical debuffs inflicted on you are removed. 
 #21641	[!Mastery]적의 공격을 방어하거나 회피할 경우, $Buff$ 상태가 됩니다.	[!Mastery]Dodging or blocking an attack grants you $Buff$.
-#21642	[!Mastery]$Ability$에 의해 자신이 받는 피해량이 자신의 $Stat$보다 작으면, 해당 피해량의 $Value$의 피해만 받습니다.	[!Mastery]If the reduced incoming damage by $Ability$ is less than $Stat$, you take $Value$ of the damage.
+#21642	[!Mastery]$Ability$에 의해 자신이 받는 피해량이 자신의 공격력보다 작으면, 해당 피해량의 $Value$의 피해만 받습니다.	[!Mastery]If the reduced incoming damage by $Ability$ is less than 공격력, you take $Value$ of the damage.
 #21643	[!Mastery]$Type$ 속성의 어빌리티를 사용하면, 해당 어빌리티를 제외한 모든 어빌리티의 재사용 대기 시간이 $Value$ 감소합니다.	[!Mastery]Using $Type$ type ability decreases the cooldown by $Value$ for all abilities except for the one that has been used.
 #21644	[!Mastery]적에게 공격을 당할 경우, $SummonMachine$ 혹은 $HackedMachine$가 해당 적을 공격 가능하면 해당 대상을 향해 $ResponsiveAttack$을 합니다.	[!Mastery]If you are attacked by an adversary, $SummonMachine$ or $HackedMachine$ $ResponsiveAttack$ the adversary if the target is within its reach.
-#21645	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적에게 공격을 당할 경우, $Stat$[이] $Value2$ 증가합니다.	[!Mastery]If you are attacked while there are no allies within the radius of $Value$ tiles, $Stat$ increases by $Value2$.
+#21645	[!Mastery]반경 $Value$칸 범위 내 아군이 없는 상황에서 적에게 공격을 당할 경우, 공격력[이] $Value2$ 증가합니다.	[!Mastery]If you are attacked while there are no allies within the radius of $Value$ tiles, 공격력 increases by $Value2$.
 #21646	[!Mastery]근접한 적의 공격을 받을 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]Taking damage from a nearby foe brings about the following effects.
 #21647	[!Mastery]적의 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Adversary's $ActionTime$ increases by $Value$.
 #21648	[!Mastery]근접 공격에 대한 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]Damage taken from melee attack decreasses by $Value$.
@@ -14091,7 +14091,7 @@
 #21654	[!Mastery]자신의 특성으로 체력 회복 시	[!Mastery]If you recover HP by your mastery
 #21655	[!Mastery]해당 회복량의 $Value$만큼 $SummonBeast$의 체력이 회복됩니다.	[!Mastery]Recovers the HP of $SummonBeast$ by $Value$ of the HP recovery.
 #21656	[!Mastery]근접한 적으로부터 자신이 받는 피해량이 체력의 $Value$보다 작으면 $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]If a damage taken from a nearby foe is less than $Value$ of your HP, $ActionTime$ decreases by $Value2$.
-#21657	[!Mastery]근접 공격에 대한 $Stat$[이] $Value$ 증가합니다.	[!Mastery]$Stat$ increases by $Value$ when you perform meele attack.
+#21657	[!Mastery]근접 공격에 대한 공격력[이] $Value$ 증가합니다.	[!Mastery]공격력 increases by $Value$ when you perform meele attack.
 #21658	[!Mastery]시야 내 적의 원거리 공격을 회피할 경우, $Value$회 원거리 공격으로 $CounterAttack$을 가합니다.	[!Mastery]If you dodge a ranged attack done by adversaries within the line of sight, you $CounterAttack$ using ranged attacks $Value$ times.
 #21659	[!Mastery]$Mastery$ 발동에 의한 $CounterAttack$으로 적을 공격할 경우, $ActionTime$이 $Value$ 증가합니다. 	[!Mastery]Attacking a foe by $CounterAttack$ initiated by $Mastery$ activation increases $ActionTime$ by $Value$.
 #21660	[!Mastery]적의 공격을 회피할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]If you dodge an attack, the following effects occur.
@@ -14104,7 +14104,7 @@
 #21668	[!Mastery]반경 $Value$칸 내 자신보다 레벨이 같거나 낮은 $Human$ 혹은 $Beast$인 적에게 다음 효과가 발생합니다.	[!Mastery]To $Human$ or $Beast$ type adversaries whose levels are less than or equal to your level and are within the radius of $Value$ tiles, the following takes place.
 #21669	[!Mastery]적의 공격을 회피하면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Dodging an attack decreases $ActionTime$ by $Value$.
 #21670	[!Mastery]적의 근접 $CounterAttack$을 봉쇄합니다.	[!Mastery]Prevents enemy melee $CounterAttack$.
-#21671	[!Mastery]근접한 적의 공격으로 받는 피해량이 자신의 $Stat$보다 작으면, 해당 피해량이 $Value$ 감소합니다.	[!Mastery]If a damage taken from a nearby foe is less than your $Stat$, the incoming damage is reduced by $Value$.
+#21671	[!Mastery]근접한 적의 공격으로 받는 피해량이 자신의 공격력보다 작으면, 해당 피해량이 $Value$ 감소합니다.	[!Mastery]If a damage taken from a nearby foe is less than your 공격력, the incoming damage is reduced by $Value$.
 #21673	[!Mastery]단일 대상 회복 어빌리티	[!Mastery]Single target heal ability
 #21674	[!Mastery]$Mastery$ 발동에 의해 $Ability$를 아군에게 사용하는 경우, $ActionTime$이 $Value$ 증가합니다. 	[!Mastery]Using $Ability$ on ally due to $Mastery$ activation increases $ActionTime$ by $Value$.
 #21675	[!Mastery]자신의 상태 이상을 모두 해제하며, 해제한 상태 이상 $Value$개 당 $SP$를 $Value2$ 소모합니다.	[!Mastery]Removes all debuffs on you at the expense of $Value2$ $SP$ per $Value$ debuffs.
@@ -14118,9 +14118,9 @@
 #21684	[!Mastery]자신의 $BuffGroup$ 계열 상태 이상을 해제하며 해제한 상태 $Value$개 당 $SP$를 $Value2$ 생성합니다.	[!Mastery]Removes your $BuffGroup$ type debuff and earns $Value2$ $SP$ per $Value$ removed states.
 #21685	[!Mastery]자신이 받는 피해량이 체력의 $Value$ 보다 크면, 해당 피해량의 $Value2$만큼 $Vigor$을 회복합니다.	[!Mastery]If incoming damage exceeds $Value$ of HP, $Vigor$ recovers by $Value2$ of the damage.
 #21686	[!Mastery]$Ability$, $Ability2$, $Ability3$에 의해 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]The damage taken by $Ability$, $Ability2$, and $Ability3$ decreases by $Value$.
-#21687	[!Mastery]적이 $Ability$, $Ability2$, $Ability3$로 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]If an adversary attacks you uing $Ability$, $Ability2$, $Ability3$, $Stat$ increases by $Value$.
+#21687	[!Mastery]적이 $Ability$, $Ability2$, $Ability3$로 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]If an adversary attacks you uing $Ability$, $Ability2$, $Ability3$, 공격력 increases by $Value$.
 #21688	[!Mastery]물리 공격 어빌리티	[!Mastery]Physical attack ability
-#21690	[!Mastery]자신보다 레벨이 높은 적에게 공격을 당할 경우, $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Taking damage from an enemy of higher level increases $Stat$, $Stat2$ by $Value$.
+#21690	[!Mastery]자신보다 레벨이 높은 적에게 공격을 당할 경우, 공격력, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Taking damage from an enemy of higher level increases 공격력, $Stat2$ by $Value$.
 #21691	[!Mastery]$Overcharge$ 상태에서 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]Damage taken while $Overcharge$ state is triggered decreases by $Value$.
 #21692	[!Mastery]자신의 시야 내 시민 혹은 아군이 적에게 공격을 받아 $Dead$이 되거나 혹은 체력의 $Value$ 이상의 피해를 입으면, $Buff$ 상태가 됩니다.	[!Mastery]If a civillian or an ally within your line of sight is put $Dead$ or lose more than $Value$ of HP, you become $Buff$.
 #21693	[!Mastery]$BuffGroup$ 계열 상태가 될 때마다 어빌리티 재사용 대기 시간이 $Value$ 감소합니다.	[!Mastery]Every time you are debuffed by $BuffGroup$ type, ability cool down decreases by $Value$. 
@@ -14131,7 +14131,7 @@
 #21701	[!Mastery]적의 공격으로 피해를 입으면, 해당 적에게 가까운 위치로 전진하며 $Buff$ 상태가 됩니다.	[!Mastery]If you take damage from an adversary, you approach the target and become $Buff$.
 #21702	[!Mastery]체력이 $Value$ 이하인 적을 공격하면 무조건 치명타로 적중합니다.	[!Mastery]Attack on a foe with HP below $Value$ always hits as critical strike.
 #21703	[!Mastery]$BuffGroup$, $BuffGroup2$ 계열 상태 이상인 적에게 피해를 줄 시 $Buff$ 상태가 됩니다.	[!Mastery]Damaging a $BuffGroup$, $BuffGroup2$ type debuffed target triggers $Buff$.
-#21704	[!Mastery]적을 공격할 경우, 적의 최종 $Stat$[이] 반으로 감소합니다.	[!Mastery]Upon attacking a target, the target's $Stat$ halves.
+#21704	[!Mastery]적을 공격할 경우, 적의 최종 공격력[이] 반으로 감소합니다.	[!Mastery]Upon attacking a target, the target's 공격력 halves.
 #21705	[!Mastery]$Buff$ 상태에서 자신이 주는 피해량이 $Value$만큼 증가합니다.	[!Mastery]Targets within the radius of $Value$ tiles become $Buff$.
 #21710	[!Mastery]$Buff$ 상태의 적에게 공격을 적중시키면, 해당 적은 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Attacking a $Buff$ target increases the target's $ActionTime$ by $Value$.
 #21711	[!Mastery]적에게 치명타를 적중시키면, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]Landing a critical strike on a target triggers $Buff$ on the target.
@@ -14139,7 +14139,7 @@
 #21713	[!Mastery]적에게 치명타를 적중시키면, 해당 적의 상태 효과 중 무작위로 선택된 상태 $Value$개가 해제됩니다.	[!Mastery]Landing a critical strike on a target removes $Value$ random status effects among activated status effects from the target.
 #21714	[!Mastery]적에게 치명타를 적중시키면, 해당 적이 위치한 지형은 $Buff$ 상태가 됩니다.	[!Mastery]Landing a critical strike on a target triggers $Buff$ on a position the target stands on.
 #21715	[!Mastery]$Value$번째 공격마다 다음 어빌리티가 강화된 어빌리티로 변경됩니다.	[!Mastery]For every $Value$ attack, the upcoming ability is replaced by an enhanced ability.
-#21717	[!Mastery]적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Upon attacking a target, the target's $Stat$ decreases by $Value$.
+#21717	[!Mastery]적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Upon attacking a target, the target's 공격력 decreases by $Value$.
 #21718	[!Mastery]$BuffGroup$ 계열 상태에서 다음과 같은 효과가 발생합니다.	[!Mastery]If you are debuffed by $BuffGroup$ type, the following effects occur.
 #21719	[!Mastery]자신의 턴이 아닌 상황에서 발생한 이동으로 적이 주위 $Value$칸에 들어온 경우, $Ability$로 $ResponsiveAttack$을 합니다.	[!Mastery]Granted that it is not your turn, if an adversary approaches you by $Value$ tiles, you $ResponsiveAttack$ using $Ability$.
 #21721	[!Mastery]적에게 치명타를 적중시키면 $Buff$ $Value$개를 생성합니다.	[!Mastery]Landing a critical strike on a target generates $Value$ $Buff$.
@@ -14160,7 +14160,7 @@
 #21739	[!Mastery]적에게 치명타를 적중시키면, 해당 적의 $Vigor$이 $Value$ 감소합니다.	[!Mastery]Landing a critical strike on a target decreases the target's $Vigor$ by $Value$.
 #21740	[!Mastery]적을 $Dead$으로 만들면, 자신의 $Vigor$을 모두 회복합니다.	[!Mastery]Putting a target $Dead$ fully recovers $Vigor$.
 #21744	[!Mastery]$Machine$인 대상에게는 발동하지 않습니다.	[!Mastery]Inactive to $Machine$ type target.
-#21746	[!Mastery]물리적 상태 이상인 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a physically debuffed target increases $Stat$ by $Value$.
+#21746	[!Mastery]물리적 상태 이상인 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a physically debuffed target increases 공격력 by $Value$.
 #21747	[!Mastery]$Ability$ 사용 시, 해당 대상은 $Vigor$을 $Value$ 회복합니다.	[!Mastery]Upon using $Ability$, a target recovers $Vigor$ by $Value$.
 #21748	[!Mastery]$Ability$ 사용 시, 해당 대상의 체력을 모두 회복시키면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Recovering a target to full HP using $Ability$ decreases the $ActionTime$ by $Value$.
 #21750	[!Mastery]$Ability$로 자신과 $Value$칸 이상 떨어진 적을 공격하여 $Dead$으로 만들면 다음과 같은 효과가 발생합니다.	[!Mastery][!Mastery]Putting a target $Value$ tiles far from you $Dead$ with $Ability$ brings about the following.
@@ -14168,7 +14168,7 @@
 #21752	[!Mastery]$Dead$이 된 적의 반경 $Value$칸 내의 적은 $Buff$ 상태가 됩니다.	[!Mastery]Triggers $Buff$ on adversaries adjacent to a $Dead$ state target by the radius of $Value$ tiles.
 #21753	[!Mastery]적 팀 시야에 노출된 경우	[!Mastery]If you are exposed to adversary
 #21754	[!Mastery]$Dead$이 된 적의 반경 $Value$칸 내의 적은 $ActionTime$이 $Value2$ 증가합니다.	[!Mastery]$ActionTime$ of adversaries adjacent to a $Dead$ state enemy by $Value$ tiles increases by $Value2$.
-#21755	[!Mastery]$Ability$로 공격 범위 내 적이 $Value$명 이상인 상황에서 적을 공격할 경우, 적 $Value2$명 당 $Stat$[이] $Value3$ 증가합니다.	[!Mastery]Upon using $Ability$, if there are more than $Value$ targets within the range of $Ability$, your $Stat$ increases by $Value3$ for every $Value2$ targets.
+#21755	[!Mastery]$Ability$로 공격 범위 내 적이 $Value$명 이상인 상황에서 적을 공격할 경우, 적 $Value2$명 당 공격력[이] $Value3$ 증가합니다.	[!Mastery]Upon using $Ability$, if there are more than $Value$ targets within the range of $Ability$, your 공격력 increases by $Value3$ for every $Value2$ targets.
 #21757	[!Mastery]범위 내 모든 적이 $Dead$이 되지 않으면 $ActionPoint$을 $Value$ 회복합니다.	[!Mastery]If all adversaries within the range are not put $Dead$,  $ActionPoint$ recovers by $Value$.
 #21758	[!Mastery]적에게 체력의 $Value$이상의 피해를 입히면, 해당 피해량의 $Value2$를 자신의 체력으로 회복합니다.	[!Mastery]Dealing damage more than $Value$ of a target's HP recovers your HP by $Value2$ of the damage.
 #21759	[!Mastery]피해를 입은 대상이 $BuffGroup$ 계열 상태 이상이거나 $Dead$이 되면 회복량이 $Value$배가 됩니다.	[!Mastery]If a damaged target is under $BuffGroup$ type debuff or $Dead$ state, HP recovery increases by $Value$ times.
@@ -14182,7 +14182,7 @@
 #21767	[!Mastery]적을 공격하여 $Dead$으로 만들면, 반경 $Value$칸 내 아군은 $Buff$ 상태가 됩니다.	[!Mastery]If you put a target $Dead$, allies within the radius of $Value$ tiles become $Buff$.
 #21768	[!Mastery]$Finish$ 효과가 발동하면, 누적된 $Great$ 횟수만큼 이전 공연 슬롯 효과를 다시 생성합니다.	[!Mastery]Triggering $Finish$ effect regenerates as much performance slot effects as the number of accumulated $Great$.
 #21769	[!Mastery]생성되는 공연 효과는 최대 공연 슬롯 개수보다 $Value$개 적게 생성합니다.	[!Mastery]Generated peformance effect is less than the maximum performance slot by $Value$.
-#21770	[!Mastery]이전 자신의 공격이 적중했던 적을 공격할 경우, $Stat$[이] $Value$ 상승하며 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Hitting a target whom you hit before increases $Stat$ by $Value$ and damage by $Value2$.
+#21770	[!Mastery]이전 자신의 공격이 적중했던 적을 공격할 경우, 공격력[이] $Value$ 상승하며 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Hitting a target whom you hit before increases 공격력 by $Value$ and damage by $Value2$.
 #21771	[!Mastery]$Ability$ 사용 시, 대상은 $Buff$ 상태가 됩니다.	[!Mastery]Upon using $Ability$, the target becomes $Buff$.
 #21772	[!Mastery]적에게 공격을 적중시키면, 해당 적의 상태 효과를 모두 해제합니다.	[!Mastery]Hitting a target removes all status effects on the target.
 #21773	[!Mastery]적에게 공격을 적중시키면, 해당 적은 $Value$ 확률로 $Buff$ 상태가 됩니다.	[!Mastery]Hitting a target has $Value$ chance to trigger $Buff$ on the target.
@@ -14191,14 +14191,14 @@
 #21776	[!Mastery]$Ability$를 적에게 적중시키면, 해당 적의 상태 효과 중 무작위의 상태 효과 $Value$개가 해제됩니다.	[!Mastery]Attacking a target using $Ability$ removes $Value$ random status effect(s) from the target.
 #21777	[!Mastery]$Ability$로 $BuffGroup$, $BuffGroup2$ 계열 상태 이상인 적에게 주는 피해량이 $Value$ 증가합니다.	[!Mastery]Increases the damage done by your $Ability$ caused against an enemy of $BuffGroup$ or $BuffGroup2$ state by $Value$.
 #21779	[!Mastery]$Ability$로 적에게 치명타를 적중시키면, $Ability$의 재사용 대기 시간이 $Value$턴 감소합니다.	[!Mastery]Landing a critical stike on a target using $Ability$ decreases $Ability$'s cooldown by $Value$ turns.
-#21782	[!Mastery]$SP$의 축적에 따른 $Stat$ 증가 효과로 증가한 $Stat$만큼 적의 $Stat$[이] 감소합니다.	[!Mastery]Adversaries' $Stat$ decreases by the amount of your $Stat$ increment resulted from the accumulation of $SP$.
+#21782	[!Mastery]$SP$의 축적에 따른 공격력 증가 효과로 증가한 공격력만큼 적의 공격력[이] 감소합니다.	[!Mastery]Adversaries' 공격력 decreases by the amount of your 공격력 increment resulted from the accumulation of $SP$.
 #21783	[!Mastery]$Type$를 보유한 적에게 치명타를 적중시키면, 해당 적의 $Type$가 $Value$ 감소합니다.	[!Mastery]Landing a critical strike on a target that has $Type$ type decreases the target's $Type$ by $Value$.
 #21784	[!Mastery]$BuffGroup$ 계열 상태 이상인 적에게 공격을 적중시키면, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]Attacking a $BuffGroup$ type debuffed target triggers $Buff$ on the target.
 #21785	[!Mastery]$Ability$로 체력의 $Value$ 이상의 피해를 입은 적은 $Buff$ 상태가 됩니다.	[!Mastery]If the damage dealt by $Ability$ is greater than $Value$ of HP of a target, the target becomes $Buff$.
 #21787	[!Mastery]$BuffGroup$ 계열 상태 이상인 적에게 치명타를 적중시키면, 해당 적의 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Landing a critical strike on a $BuffGroup$ type debuffed target increases the target's $ActionTime$ by $Value$.
 #21788	[!Mastery]$Ability$로 적에게 치명타를 적중시키면, 해당 적은 모든 $Ability2$의 재사용 대기 시간이 $Value$턴 증가합니다.	[!Mastery]Landing a critical stike on a target using $Ability$ increases all of the target's $Ability2$ cooldown by $Value$ turns.
 #21790	[!Mastery]$Explosion$에 의해 피해를 입은 대상은 폭발한 대상이 가지고 있던 $BuffGroup$ 계열 상태 이상에 감염됩니다.	[!Mastery]The target damaged from the enemy's $Explosion$ get the enemy's $BuffGroup$ infected.
-#21791	[!Mastery]자신보다 레벨이 낮은 적을 공격할 경우, 적의 $Stat$[와] $Stat2$[이] $Value$ 감소합니다.	[!Mastery]Attacking an enemy of lower level decreases the target's $Stat$, $Stat2$ by $Value$.
+#21791	[!Mastery]자신보다 레벨이 낮은 적을 공격할 경우, 적의 공격력[와] $Stat2$[이] $Value$ 감소합니다.	[!Mastery]Attacking an enemy of lower level decreases the target's 공격력, $Stat2$ by $Value$.
 #21793	[!Mastery]$Beast$인 적으로부터 받는 피해량이 $Value$ 감소합니다.	[!Mastery]Damage taken from a $Beast$ type target decreases by $Value$.
 #21795	[!Mastery]$WeatherEffect$의 상태 이상에 면역이 됩니다.	[!Mastery]Becomes immune to debuffs inflicted by $WeatherEffect$.
 #21796	[!Mastery]날씨 효과	[!LoadingDesc]Weather Effects
@@ -14213,18 +14213,18 @@
 #21805	[!Mastery]미션 종료 시, 자신이 $Dead$[이] 아니면 $LostProperty$[이] 발생하지 않습니다.	[!Mastery]Upon completing a mission, unless you are put $Dead$, $LostProperty$ does not occur.
 #21806	[!Mastery]유실물	[!WordCollection]Lost Property
 #21807	[!Mastery]$LostProperty$[이] 없는 경우, 해당 미션에서 획득 가능한 $Rare$ 등급 이상의 장비 아이템을 $Value$개 획득합니다.	[!Mastery]If there is no $LostProperty$, you receive $Value$ $Rare$ or better ranked acquirable items.
-#21808	[!Mastery]$Ability$로 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target using $Ability$ increases $Stat$ by $Value$.
+#21808	[!Mastery]$Ability$로 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target using $Ability$ increases 공격력 by $Value$.
 #21809	[!Mastery]$Ability$로 생성되는 $SP$가 $Value$ 증가합니다.	[!Mastery]$SP$ generated by $Ability$ increases by $Value$.
 #21810	[!Mastery]자신의 상태 이상 $Value$개 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]Damage taken decreases by $Value2$ per $Value$ debuffs inflicted on you.
 #21811	[!Mastery]적에게 치명타를 적중시키면, 자신의 $Vigor$ 혹은 $Rage$가 $Value$ 증가합니다.	[!Mastery]Landing a critical strike on a target increases $Vigor$ or $Rage$ by $Value$.
 #21812	[!Mastery]자신이 받는 피해량이 체력의 $Value$를 넘으면 바로 자신의 턴이 됩니다.	[!Mastery]If incoming damage exceeds $Value$ of HP, you take the turn right away.
-#21813	[!Mastery]자신을 공격하는 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Adveraries attacking you have their $Stat$ decreased by $Value$.
+#21813	[!Mastery]자신을 공격하는 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Adveraries attacking you have their 공격력 decreased by $Value$.
 #21814	[!Mastery]$FieldEffect$에 의한 $BuffGroup$ 계열 상태 이상에 걸리지 않습니다.	[!Mastery]Becomes immunute to $BuffGroup$ type debuff inflicted by $FieldEffect$.
 #21815	[!Mastery]$Ability$의 시전 지연 시간이 $Value$ 감소합니다.	[!Mastery]The cast delay of $Ability$ decreases by $Value$.
 #21816	[!Mastery]$Evening$, $Night$, $Indoor_Dark$에서 다음과 같은 효과가 발생합니다.	[!Mastery]$Evening$, $Night$, $Indoor_Dark$ bring about the following effect.
 #21817	[!Mastery]$Buff$ 상태에 면역됩니다.	[!Mastery]Becomes immune to $Buff$.
 #21818	[!Mastery]$SummonMachine$ 혹은 $HackedMachine$에 대한 제어권이 $Value$개 추가됩니다.	[!Mastery]Adds $Value$ controls over $SummonMachine$ or $HackedMachine$.
-#21819	[!Mastery]$Ability$로 $Machine$인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Striking $Machine$ with $Ability$ decreases the target's $Stat$ by $Value$.
+#21819	[!Mastery]$Ability$로 $Machine$인 적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Striking $Machine$ with $Ability$ decreases the target's 공격력 by $Value$.
 #21820	[!Mastery]턴 시작 시, 시간과 날씨 상황에 따라 다음과 같은 효과가 발생합니다.	[!Mastery]At the beginning of a turn, the following effects take place with respect to time and weather condtions.
 #21821	[!Mastery]맑음 / 낮	[!Mastery]Clear / Afternoon
 #21822	[!Mastery]$Fuel$를 $Value$ 충전합니다.	[!Mastery]Refills $Value$ $Fuel$.
@@ -14238,7 +14238,7 @@
 #21830	[!Mastery]사용 기체의 무기가 $Weapon$인 경우, 해당 어빌리티는 활성화 되지 않습니다.	[!Mastery]If the occupied frame's weapon is $Weapon$, the ability is not activated.
 #21834	[!Mastery]반경 $Value$칸 내의 적에게 $SP$만큼 $Type$ 속성 고정 피해를 입히며, 해당 피해를 입은 대상은 $Buff$ 상태가 됩니다.	[!Mastery]Deals $SP$ $Type$ type fixed damage to adversaries within $Value$ tiles, triggering $Buff$ on the targets.
 #21835	[!Mastery]반경 $Value$칸 내의 아군의 체력을 $SP$만큼 회복합니다.	[!Mastery]All allies within the radius of $Value$ tiles recover their HP by $SP$.
-#21836	[!Mastery]적에게 공격을 당할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]If you are attacked by an adversary, the adversary's $Stat$ decreases by $Value$.
+#21836	[!Mastery]적에게 공격을 당할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]If you are attacked by an adversary, the adversary's 공격력 decreases by $Value$.
 #21837	[!Mastery]$Mastery$에 면역이 됩니다.	[!Mastery]Immune to $Mastery$.
 #21838	[!Mastery]$Human$[과] $Beast$인 적에게 치명타를 적중시키면 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]Landing a critical strike on $Human$ and $Beast$ adversaries triggers $Buff$ on them.
 #21839	[!MasteryAbilityType]아이템	[!HelpSubCategory]Item
@@ -14269,13 +14269,13 @@
 #21866	[!Mastery]적용 범위가 $Value$ 증가합니다.	[!Mastery]The effective range increases by $Value$.
 #21868	[!Mastery]체력이 $Value$ 이하인 적을 공격하여 $Dead$으로 만들면 $Buff$ 상태가 됩니다.	[!Mastery]Putting a foe with HP below $Value$ $Dead$ triggers $Buff$.
 #21869	[!Mastery]체력의 $Value$ 이하이면, 체력을 $Value2$만큼 회복하고 $SP$를 $Value3$ 소모합니다.	[!Mastery]If your HP is below $Value$, you recover $Value2$ of HP at the expense of $Value3$ $SP$.
-#21870	[!Mastery]$Ability$로 주는 피해량이 자신의 $Stat$의 $Value$만큼 증가합니다.	[!Mastery]The damage dealt by $Ability$ increases by $Value$ of $Stat$.
+#21870	[!Mastery]$Ability$로 주는 피해량이 자신의 공격력의 $Value$만큼 증가합니다.	[!Mastery]The damage dealt by $Ability$ increases by $Value$ of 공격력.
 #21871	[!Mastery]$State$ 상태에서 $Ability$로 주는 피해량이 $Value$ 증가합니다.	[!Mastery]Under $State$ state, damage done by $Ability$ increases by $Value$.
 #21872	[!Mastery]$Ability$로 주는 피해량이 $State$ 상태에서 $Value$ 증가합니다.	[!Mastery]The damage dealt by $Ability$ increases by $Value$ at $State$ state.
 #21873	[!Mastery]$Ability$로 주는 피해량이 자신의 잃은 체력의 $Value$ 당 $Value$ 증가합니다.	[!Mastery]The damage dealt by $Ability$ increases by $Value$ for every $Value$ of lost HP
 #21874	[!Mastery]$Ability$로 적을 공격할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]Attacking a target using $Ability$ brings about the following.
-#21875	[!Mastery]남은 $Stat$ $Value$ 당 $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]$Stat2$ increases by $Value2$ for every $Value$ spare $Stat$.
-#21876	[!Mastery]남은 $Stat$ $Value$ 당 $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]$Stat2$ decreases by $Value2$ for every $Value$ spare $Stat$.
+#21875	[!Mastery]남은 공격력 $Value$ 당 $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]$Stat2$ increases by $Value2$ for every $Value$ spare 공격력.
+#21876	[!Mastery]남은 공격력 $Value$ 당 $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]$Stat2$ decreases by $Value2$ for every $Value$ spare 공격력.
 #21877	[!Mastery]자신의 턴이 아닌 상황에서 적이 자신의 반경 $Value$칸 안으로 이동해 오거나 근접한 적이 $Ability$를 사용할 경우, $Value$회에 한하여 해당 적에게 $ResponsiveAttack$을 합니다.	[!Mastery]Granted that it is not your turn, if an adversary approaches you by $Value$ tiles or a nearby adversary uses $Ability$, for a limited chance of $Value$ times, you $ResponsiveAttack$ the target using $Ability$.
 #21878	[!Mastery]다음 레벨 상승을 위해 필요로 하는 경험치량의 $Value$ 이상 획득 시	[!Mastery]If you gain more EXP than $Value$ of EXP needed to level up 
 #21879	[!Mastery]$Ability$로 주는 피해량이 현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Value2$ 증가합니다.	[!Mastery]The damage dealt by $Ability$ increases by $Value2$ for every $Value$ currently applied $Type$ masteries.
@@ -14288,10 +14288,10 @@
 #21886	[!Mastery]자신의 잃은 체력 $Value$ 당 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]Damage taken decreases by $Value$ per $Value$ of lost HP.
 #21888	[!Mastery]치명타 피해를 입은 대상의 상태 효과를 모두 해제하며, 해제한 상태 효과 $Value$개 당 $Buff$ $Value$개를 생성합니다.	[!Mastery]Removes all status effects on a target that took critical strike, generatinng $Value$ $Buff$ per $Value$ removed status effects.
 #21889	[!Mastery]자신의 잃은 체력 $Value$ 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Damage dealt increases by $Value2$ per $Value$ of lost HP.
-#21890	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ currently applied $Type$ masteries.
+#21890	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ currently applied $Type$ masteries.
 #21891	[!Mastery]근접한 적을 공격할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]Dealing damage to a nearby foe brings about the following effect.
 #21892	[!Mastery]자신의 잃은 체력의 $Value$ 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]Increases the damage takenby $Value2$ per lost your $Value$ HP.
-#21893	[!Mastery]자신의 시야 내 아군보다 적이 많으면, 아군보다 많은 적 $Value$명 당 $Stat$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]Increases your $Stat$ and $Stat2$ by $Value2$ per $Value$ extra enemies if there are more enemies than allies within your line of sight.
+#21893	[!Mastery]자신의 시야 내 아군보다 적이 많으면, 아군보다 많은 적 $Value$명 당 공격력, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]Increases your 공격력 and $Stat2$ by $Value2$ per $Value$ extra enemies if there are more enemies than allies within your line of sight.
 #21894	[!Mastery]시야 내 아군 $Value$명 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Damage done to adversaries increases by $Value2$ per $Value$ allies within the line of sight.
 #21895	[!Mastery]자신의 공격으로 피해를 준 대상의 상태 효과가 해제됩니다.	[!Mastery]Status effect of targets you caused damage is removed.
 #21896	[!Mastery]$Ability$[를] 다음과 같이 강화합니다.	[!Mastery]Improves the $Ability$ as follows.
@@ -14303,47 +14303,47 @@
 #21902	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Damage dealt increases by $Value2$ per $Value$ currently applied $Type$ masteries.
 #21904	[!Mastery]현재 사용하고 있는 모듈 $Value$개 당 시전 지연 시간이 $Value2$ 감소합니다.	[!Mastery]Cast dealy decreases by $Value2$ per $Value$ currently applied modules.
 #21905	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]Damage taken decreases by $Value2$ per $Value$ currently applied $Type$ masteries.
-#21906	[!Mastery]$Mastery$, $Mastery2$, $Mastery3$, $Mastery4$ 발동으로 적을 공격할 경우, 적의 $Stat$[이] $Value$, $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]Reduces the target's $Stat$, $Stat2$ by $Value$, $Value2$ respectively when you attack a foe due to $Mastery$, $Mastery2$, $Mastery3$, $Mastery4$ activation.
+#21906	[!Mastery]$Mastery$, $Mastery2$, $Mastery3$, $Mastery4$ 발동으로 적을 공격할 경우, 적의 공격력[이] $Value$, $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]Reduces the target's 공격력, $Stat2$ by $Value$, $Value2$ respectively when you attack a foe due to $Mastery$, $Mastery2$, $Mastery3$, $Mastery4$ activation.
 #21907	[!Mastery]해당 공격으로 적을 $Dead$으로 만들면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Putting a target $Dead$ using the attack decreases $ActionTime$ by $Value$.
 #21908	[!Mastery]도약과 착지 시 이동력 페널티를 받지 않습니다.	[!Mastery]Leaping and landing are not restricted by mobility penalty.
-#21909	[!Mastery]현재 사용하고 있는 $Type$, $Type2$ 특성 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ currently applied $Type$, $Type2$ masteries.
+#21909	[!Mastery]현재 사용하고 있는 $Type$, $Type2$ 특성 $Value$개 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ currently applied $Type$, $Type2$ masteries.
 #21910	[!Mastery]무작위의 상태 효과가 발생합니다.	[!Mastery]Random status effect occurs.
-#21912	[!Mastery]적으로부터 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 적의 $Stat$[이] $Value2$ 추가 감소합니다.	[!Mastery]If you are attacked by an adversary, $Stat$ of the adversary further decreases by $Value2$ per distance of $Value$ tiles from the attacker.
-#21913	[!Mastery]적에게 원거리 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]If you take ranged attack from an enemy, $Stat$ increases by $Value2$ per distance of $Value$ tiles from the enemy.
-#21914	[!Mastery]적을 공격할 경우, 적과의 거리 $Value$ 타일 당 적의 $Stat$[이] $Value2$ 감소합니다.	[!Mastery]Upon attacking a target, the target's $Stat$ decreases by $Value2$ per distance of $Value$ tiles from the target.
+#21912	[!Mastery]적으로부터 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 적의 공격력[이] $Value2$ 추가 감소합니다.	[!Mastery]If you are attacked by an adversary, 공격력 of the adversary further decreases by $Value2$ per distance of $Value$ tiles from the attacker.
+#21913	[!Mastery]적에게 원거리 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]If you take ranged attack from an enemy, 공격력 increases by $Value2$ per distance of $Value$ tiles from the enemy.
+#21914	[!Mastery]적을 공격할 경우, 적과의 거리 $Value$ 타일 당 적의 공격력[이] $Value2$ 감소합니다.	[!Mastery]Upon attacking a target, the target's 공격력 decreases by $Value2$ per distance of $Value$ tiles from the target.
 #21915	[!Mastery]적에게 공격을 적중시키면, 해당 적은 $Mastery$의 발동으로 해제한 상태 효과의 개수만큼 무작위의 상태 이상이 발생합니다.	[!Mastery]Hitting a target inflicts the same number of random debuffs on the target as the number of debuffs removed by $Mastery$.
 #21916	[!Mastery]현재 사용하고 있는 $Type$, $Type2$ 특성 자신이 받는 피해량이 $Value$개 당 $Value2$ 감소합니다.	[!Mastery]Damage taken decreases by $Value2$ per $Value$ currently applied $Type$, $Type2$ masteries.
 #21917	[!Mastery]현재 사용하고 있는 $Type$, $Type2$ 특성 $Value$개 당 시전 지연 시간이 $Value2$ 추가 감소합니다.	[!Mastery]Cast delay further decreases by $Value2$ per $Value$ currently applied $Type$, $Type2$ masteries.
-#21918	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 적의 $Stat$[이] $Value2$ 추가 감소합니다.	[!Mastery]$Stat$ further decreases by $Value2$ per $Value$ currently applied $Type$ masteries.
+#21918	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 적의 공격력[이] $Value2$ 추가 감소합니다.	[!Mastery]공격력 further decreases by $Value2$ per $Value$ currently applied $Type$ masteries.
 #21919	[!Mastery]현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 어빌리티의 시전 지연 시간이 $Value2$ 감소합니다.	[!Mastery]Ability cast delay decreases by $Value2$ per $Value$ currently applied $Type$ modules.
-#21920	[!Mastery]적에게 공격 받을 경우, 현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 적의 $Stat$[이] $Value2$ 감소합니다.	[!Mastery]If you are attacked by an adversary, the target's $Stat$ decreases by $Value2$ per $Value$ currently applied $Type$ modules.
-#21921	[!Mastery]현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 장착한 장비의 $Stat$, $Stat2$, $Stat3$, $Stat4$, $Stat5$[이] $Value2$ 감소합니다.	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$, $Stat5$ of equipped equipment decreases by $Value2$ per $Value$ currently applied $Type$ modules.
-#21922	[!Mastery]현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ currently applied $Type$ modules.
+#21920	[!Mastery]적에게 공격 받을 경우, 현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 적의 공격력[이] $Value2$ 감소합니다.	[!Mastery]If you are attacked by an adversary, the target's 공격력 decreases by $Value2$ per $Value$ currently applied $Type$ modules.
+#21921	[!Mastery]현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 장착한 장비의 공격력, $Stat2$, $Stat3$, $Stat4$, $Stat5$[이] $Value2$ 감소합니다.	[!Mastery]공격력, $Stat2$, $Stat3$, $Stat4$, $Stat5$ of equipped equipment decreases by $Value2$ per $Value$ currently applied $Type$ modules.
+#21922	[!Mastery]현재 사용하고 있는 모듈 중 $Type$ 모듈 $Value$ 개 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ currently applied $Type$ modules.
 #21923	[!Mastery]현재 사용하고 있는 $Type$, $Type2$ 특성 $Value$개 당 시전 지연 시간이 $Value2$ 감소합니다.	[!Mastery]Cast delay decreases by $Value2$ per $Value$ currently applied $Type$, $Type2$ masteries.
 #21924	[!Mastery]적과의 거리 $Value$ 타일 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Increases the damage dealt by $Value2$ per distance of $Value$ tiles from the target.
-#21925	[!Mastery]현재 사용하고 있는 $Type$ 모듈 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ currently applied $Type$ modules.
+#21925	[!Mastery]현재 사용하고 있는 $Type$ 모듈 $Value$개 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ currently applied $Type$ modules.
 #21926	[!Mastery]현재 사용하고 있는 $Type$ 모듈 $Value$개 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]Damage taken decreases by $Value2$ per $Value$ currently applied $Type$ modules.
 #21927	[!Mastery]현재 사용하고 있는 $Type$ 모듈 $Value$개 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Damage dealt increases by $Value2$ per $Value$ currently applied $Type$ modules.
-#21928	[!Mastery]여유 적재량 $Value$ 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ of total spare loadage.
+#21928	[!Mastery]여유 적재량 $Value$ 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ of total spare loadage.
 #21929	[!Mastery]$Buff$ 상태 발생 시, 무작위의 상태 효과가 발생합니다.	[!Mastery]Activating $Buff$ triggers random status effect.
 #21930	[!Mastery]$Buff$ 상태에서 시민을 구출하면 무작위의 상태 효과가 발생합니다.	[!Mastery]While $Buff$ is activated, if you rescue a civillian, random status effect is triggered.
 #21931	[!Mastery]$Buff$ 상태에서 $Group$ 소속의 적을 공격하여 $Dead$으로 만들때마다 $Value$ 확률로 무작위의 상태 효과가 발생합니다.	[!Mastery]In $Buff$, trigger a random positive buff with a chance of $Value$ whenever you make an enemy that belongs to a $Group$ group $Dead$.
 #21932	[!Mastery]무작위의 상태 효과가 됩니다.	[!Mastery]Grants a random status effect.
-#21933	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Stat$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$, $Stat2$ increases by $Value2$ per $Value$ currently applied $Type$ masteries.
-#21934	[!Mastery]시야 내 아군이 없는 상황에서 적으로부터 공격을 받으면, 현재 사용하고 있는 $Type$ 특성 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]If you are attacked while there is no ally within the line of sight, $Stat$ increases by $Value2$ per $Value$ currently applied $Type$ masteries.
+#21933	[!Mastery]현재 사용하고 있는 $Type$ 특성 $Value$개 당 공격력, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]공격력, $Stat2$ increases by $Value2$ per $Value$ currently applied $Type$ masteries.
+#21934	[!Mastery]시야 내 아군이 없는 상황에서 적으로부터 공격을 받으면, 현재 사용하고 있는 $Type$ 특성 $Value$개 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]If you are attacked while there is no ally within the line of sight, 공격력 increases by $Value2$ per $Value$ currently applied $Type$ masteries.
 #21935	[!Mastery]자신의 잃은 체력 $Value$ 당 $ActionTime$이 $Value2$ 감소합니다.	[!Mastery]$ActionTime$ decreases by $Value2$ per $Value$ of lost HP.
 #21936	[!Mastery]$ActionTime$이 $Value$ 이상이면 무작위의 상태 효과가 됩니다.	[!Mastery]If $ActionTime$ exceeds $Value$, you are granted with random status effect.
 #21937	[!Mastery]$Buff$ 지형 페널티를 받지 않습니다.	[!Mastery]Becomes immune to $Buff$ field penalty.
 #21938	[!Mastery]상태 이상을 무작위의 상태 효과로 변경시킵니다.	[!Mastery]Alters debuff to random status effect.
 #21939	[!Mastery]$Ability$로 적을 공격할 경우, 거리에 따른 명중률 페널티가 $Value$ 감소합니다. 	[!Mastery]Attacking a target using $Ability$ decreases a distance penalty applied on hit chance by $Value$.
-#21940	[!Mastery]현재 사용 가능한 모든 $Ability$의 사용 가능 횟수 $Value$ 당 적의 $Stat$[이] $Value2$ 감소합니다.	[!Mastery]Adversary's $Stat$ decreases by $Value2$ per $Value$ of number of uses of all available $Ability$.
-#21941	[!Mastery]현재 사용 가능한 모든 $Ability$의 사용 가능 횟수 $Value$ 당 $Stat$이 $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ of number of uses of all available $Ability$.
+#21940	[!Mastery]현재 사용 가능한 모든 $Ability$의 사용 가능 횟수 $Value$ 당 적의 공격력[이] $Value2$ 감소합니다.	[!Mastery]Adversary's 공격력 decreases by $Value2$ per $Value$ of number of uses of all available $Ability$.
+#21941	[!Mastery]현재 사용 가능한 모든 $Ability$의 사용 가능 횟수 $Value$ 당 공격력이 $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ of number of uses of all available $Ability$.
 #21942	[!Mastery]$BuffGroup$ 계열 상태 이상의 적에게 피해를 줄 시, 해당 대상은 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Dealing damage to a target under $BuffGroup$ type debuff increases the target's $ActionTime$ by $Value$.
 #21943	[!Mastery]$CounterAttack$으로 주는 피해량이 방어로 감소시킨 피해량의 $Value$만큼 증가합니다.	[!Mastery]Damage done by $CounterAttack$ increases by $Value$ of damage blocked.
-#21944	[!Mastery]현재 사용하고 있는 $Type$ 특성이 아닌 특성 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ currently applied masteries, not of $Type$ type.
-#21945	[!Mastery]현재 사용하고 있는 $Type$, $Type2$, $Type3$, $Type4$, $Type5$ 특성 $Value$개 당 $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$, $Stat2$, $Stat3$, $Stat4$ increase by $Value2$ per $Value$ currently used $Type$, $Type2$, $Type3$, $Type4$, $Type5$ masteries.
+#21944	[!Mastery]현재 사용하고 있는 $Type$ 특성이 아닌 특성 $Value$개 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ currently applied masteries, not of $Type$ type.
+#21945	[!Mastery]현재 사용하고 있는 $Type$, $Type2$, $Type3$, $Type4$, $Type5$ 특성 $Value$개 당 공격력, $Stat2$, $Stat3$, $Stat4$[이] $Value2$ 증가합니다.	[!Mastery]공격력, $Stat2$, $Stat3$, $Stat4$ increase by $Value2$ per $Value$ currently used $Type$, $Type2$, $Type3$, $Type4$, $Type5$ masteries.
 #21946	[!Mastery]적으로부터 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]If you are attacked by an adversary, damage taken decreases by $Value2$ per distance of $Value$ tiles from the attacker.
-#21947	[!Mastery]적으로부터 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 적의 $Stat$[이] $Value2$ 감소합니다.	[!Mastery]If you are attacked by an adversary, $Stat$ of the adversary decreases by $Value2$ per distance of $Value$ tiles from the attacker.
+#21947	[!Mastery]적으로부터 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 적의 공격력[이] $Value2$ 감소합니다.	[!Mastery]If you are attacked by an adversary, 공격력 of the adversary decreases by $Value2$ per distance of $Value$ tiles from the attacker.
 #21948	[!Mastery]상태 이상 $Value$개 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]Damage taken decreases by $Value2$ per $Value$ debuffs.
 #21949	[!Mastery]현재 사용 가능한 모든 $Ability$의 사용 가능 횟수 $Value$ 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]Damage taken decreases by $Value2$ per $Value$ of number of uses of all available $Ability$.
 #21950	[!Mastery]적에게 공격을 받을 경우, 적 혹은 자신이 $BuffGroup$ 계열 상태이면, 자신의 잃은 체력 $Value$ 당 자신이 받는 피해량이 $Value$ 감소합니다.	[!Mastery]If you are attacked by an adversary and you or the enemy is at $BuffGroup$ state, damage taken decreases by $Value$ per $Value$ of lost HP.
@@ -14352,11 +14352,11 @@
 #21953	[!Mastery]$Ability$[로] 변경됩니다.	[!Mastery]Converts to $Ability$.
 #21954	[!Mastery]현재 사용 가능한 모든 $Ability$의 사용 가능 횟수 $Value$ 당 자신이 주는 피해량이 $Value2$ 증가합니다.	[!Mastery]Damage dealt increases by $Value2$ per $Value$ of number of uses of all available $Ability$.
 #21955	[!Mastery]$ResponsiveAttack$으로 적을 공격할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]Attacking to a target by $ResponsiveAttack$ brings about the following effects.
-#21956	[!Mastery]적의 $Stat$[이] $Value$감소합니다.	[!Mastery]Enemy's $Stat$ is decreased by $Value$.
+#21956	[!Mastery]적의 공격력[이] $Value$감소합니다.	[!Mastery]Enemy's 공격력 is decreased by $Value$.
 #21957	[!Mastery]$State$ 상태에서 $Ability$로 공격 범위 내 적이 $Value$명 이상인 적을 공격할 경우, 다음과 같은 효과가 발생합니다.	[!Mastery]Under $State$ state, attacking more than $Value$ targets using $Ability$ brings about the following effect.
-#21958	[!Mastery]적을 공격할 경우, 현재 사용하고 있는 $Type$ 특성 $Value$개 당 적의 $Stat$[이] $Value2$ 감소합니다.	[!Mastery]Upon attacking a target, the target's $Stat$ decreases by $Value2$ per $Value$ currently applied $Type$ type masteries.
+#21958	[!Mastery]적을 공격할 경우, 현재 사용하고 있는 $Type$ 특성 $Value$개 당 적의 공격력[이] $Value2$ 감소합니다.	[!Mastery]Upon attacking a target, the target's 공격력 decreases by $Value2$ per $Value$ currently applied $Type$ type masteries.
 #21959	[!Mastery]$BuffGroup$ 계열 상태 이상인 적을 공격하여 $Dead$으로 만들면, 해당 적에게 $Explosion$[이] 발생합니다.	[!Mastery]Putting a $BuffGroup$ type debuffed target $Dead$ causes $Explosion$ on the target.
-#21960	[!Mastery]적을 공격할 경우, $SP$ $Value$ 당 적의 $Stat$[이] $Value2$ 감소합니다.	[!Mastery]If you attack a target, the target's $Stat$ decreases by $Value2$ per $Value$ $SP$.
+#21960	[!Mastery]적을 공격할 경우, $SP$ $Value$ 당 적의 공격력[이] $Value2$ 감소합니다.	[!Mastery]If you attack a target, the target's 공격력 decreases by $Value2$ per $Value$ $SP$.
 #21961	[!Mastery]적에게 공격을 받을 경우, 적과의 거리 $Value$ 타일 당 자신이 받는 피해량이 $Value2$ 감소합니다.	[!Mastery]If you are attacked by an adversary, damage taken decreases by $Value2$ per distance of $Value$ tiles from the attacker.
 #21962	[!Mastery]$Mastery$ 발동으로 이동하는 거리가 $Value$으로 증가합니다.	[!Mastery]Increases the distance traveled by activating $Mastery$ by $Value$.
 #21963	[!Mastery]자신의 남은 체력보다 남은 체력이 높은 적에게 주는 피해량이 $Value$ 증가합니다.	[!Mastery]Damage done to a target of higher HP increases by $Value$.
@@ -14370,14 +14370,14 @@
 #21971	[!Mastery]$BuffGroup$ 계열 상태 이상인 적에게 공격을 적중시키면, $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Attacking a $BuffGroup$ type debuffed target decreases $ActionTime$ by $Value$.
 #21972	[!Mastery]$Mastery$[을] 시도한 대상은 $Buff$ 상태가 됩니다.	[!Mastery]Triggers $Buff$ on those who attempted $Mastery$. 
 #21973	[!Mastery]적이 위치한 지형에 $FieldEffect$[을] 발생시켜 적을 $BuffGroup$ 계열 상태 이상으로 만들면, 해당 적은 $Buff$ 상태가 됩니다.	[!Mastery]If you induce $BuffGroup$ type debuff on a target by generating $FieldEffect$ at the location the target is standing above, the target becomes $Buff$.
-#21974	[!Mastery]자신의 남은 체력보다 남은 체력이 높은 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Attacking a target of higher HP increases $Stat$ by $Value$.
+#21974	[!Mastery]자신의 남은 체력보다 남은 체력이 높은 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Attacking a target of higher HP increases 공격력 by $Value$.
 #21975	[!Mastery]$Ability$로 적을 공격할 경우, 현재 사용하고 있는 특성 $Value$개 당 다음과 같은 효과가 발생합니다.	[!Mastery]For every $Value$ masteries of currently applied masteries, attacking a target using $Ability$ brings about the following effect.
 #21976	[!Mastery]$Field$, $Field2$ 지형이면, $ActionTime$이 $Value$ 감소합니다.$Rain$ 날씨인 경우, $ActionTime$이 $Value$ 추가 감소합니다.	[!Mastery]$ActionTime$ decreases by $Value$ if you are located in $Field$, $Field2$. In weather like $Rain$, $ActionTime$ further decreases by $Value$.
 #21977	[!Mastery]$Field$, $FieldEffect$에 의한 상태 이상에 면역이 됩니다.	[!Mastery]Becomes immune to debuff inflicted by $Field$, $FieldEffect$.
 #21978	[!Mastery]자신과 $SummonMachine$, $HackedMachine$가 적과의 전투 시 다음과 같은 효과가 발생합니다.	[!Mastery]Upon fighting enemies, you, $SummonMachine$, and $HackedMachine$ exhibits the following effects. 
 #21979	[!Mastery]기력을 소모하는 어빌리티 사용에 필요한 $Cost$[이] $Value$ 추가 감소합니다.	[!Mastery]$Cost$ needed for ability that consumes vigor further decreases by $Value$.
-#21980	[!Mastery]자신보다 레벨이 높은 적으로부터 공격을 받을 경우, $SP$ $Value$당 자신의 $Stat$, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]Taking damage from an enemy of higher level increases $Stat$, $Stat2$ by $Value2$ per $Value$ $SP$.
-#21981	[!Mastery]자신보다 레벨이 낮은 적을 공격할 경우, $SP$ $Value$당 적의 $Stat$, $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]Attacking an enemy of lower level decreases the target's $Stat$, $Stat2$ by $Value2$ per $Value$ $SP$.
+#21980	[!Mastery]자신보다 레벨이 높은 적으로부터 공격을 받을 경우, $SP$ $Value$당 자신의 공격력, $Stat2$[이] $Value2$ 증가합니다.	[!Mastery]Taking damage from an enemy of higher level increases 공격력, $Stat2$ by $Value2$ per $Value$ $SP$.
+#21981	[!Mastery]자신보다 레벨이 낮은 적을 공격할 경우, $SP$ $Value$당 적의 공격력, $Stat2$[이] $Value2$ 감소합니다.	[!Mastery]Attacking an enemy of lower level decreases the target's 공격력, $Stat2$ by $Value2$ per $Value$ $SP$.
 #21982	[!Mastery]어빌리티 사용에 필요한 $Cost$[이] $Value$ 증가합니다.	[!Mastery]$Cost$ needed for ability increases by $Value$.
 #21983	[!Mastery]초능력 계수와 공격력 계수가 $Value$ 증가합니다.	[!Mastery]ESP attack ability point and attack ability point increases by $Value$.
 #21984	[!Mastery]적을 $Dead$으로 만들면, 현재 사용하고 있는 $Type$, $Type2$ 특성 $Value$개 당 $SP$가 $Value$ 증가합니다.	[!Mastery]Putting a target $Dead$ increases $SP$ by $Value$ per $Value$ currently applied $Type$, $Type2$ type masteries.
@@ -14444,7 +14444,7 @@
 #22046	[!Mastery]모든 것은 더 강한 것으로 부숴버리면 된다.	[!Mastery]Everything can be broken by something stronger.
 #22047	[!Mastery]적을 $Dead$으로 만들면, $SP$가 $Value$ 증가합니다.	[!Mastery]Putting a target $Dead$ increases $SP$ by $Value$.
 #22048	[!Mastery]체력을 잃지 않은 적을 공격하여 $Dead$으로 만들 때, 다음과 같은 효과가 발생합니다.	[!Mastery]While you are not damaged, putting a $Dead$ target brings about the following effects.
-#22050	[!Mastery]현재 사용하고 있는 $Type$, $Type2$, $Type3$ 특성 $Value$개 당 $Stat$[이] $Value2$ 증가합니다.	[!Mastery]$Stat$ increases by $Value2$ per $Value$ currently applied $Type$, $Type2$, $Type3$ masteries.
+#22050	[!Mastery]현재 사용하고 있는 $Type$, $Type2$, $Type3$ 특성 $Value$개 당 공격력[이] $Value2$ 증가합니다.	[!Mastery]공격력 increases by $Value2$ per $Value$ currently applied $Type$, $Type2$, $Type3$ masteries.
 #22051	[!Pc]시온	Sion
 #22052	[!Pc]아이린 씨	[!Pc]Irene
 #22053	[!Pc]앤 양	[!Pc]Anne
@@ -14608,7 +14608,7 @@
 #22214	[!Item]흑철 서리 가죽	[!Item]Frost Black Iron Skin
 #22216	[!Item]흑철 불꽃 가죽	[!Item]Flame Black Iron Skin
 #22218	[!Item]흑철 섬광 가죽	[!Item]Flash Black Iron Skin
-#22219	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Striking a target of $Machine$ type or $HeavyArmored$ state with $Ability$ decreases the target's $Stat$ by $Value$.
+#22219	[!Mastery]$Ability$로 $Machine$ 혹은 $HeavyArmored$인 적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Striking a target of $Machine$ type or $HeavyArmored$ state with $Ability$ decreases the target's 공격력 by $Value$.
 #22239	[!Mastery]$Ability$의 사용 제한 횟수가 $Value$ 증가합니다.	[!Mastery]Increases the number of uses of your $Ability$ by $Value$.
 #22240	[!Mastery]공격 프로토콜 어빌리티	[!Mastery]Attack protocol ability
 #22241	[!Mastery]지원 프로토콜 어빌리티	[!Mastery]Assist protocol ability
@@ -14672,7 +14672,7 @@
 #22299	[!Item]자홍빛 흑철 가죽 코트을 기반으로 이능력의 전달을 강화한 코트.	[!Item]Upgarded version of magenta black-iron leather coat. The coat is reinforced in its ability to transmit ESP power.
 #22300	[!Item]흑철 섬광 가죽 코트	[!Item]Flashlight black-iron leather coat
 #22301	[!Item]자홍빛 흑철 가죽 코트을 경량화하여 운동성을 강화한 코트.	[!Item]A coat improved in athletic performances by reducing the weight of magenta black-iron leather coat.
-#22302	[!Mastery]적으로부터 공격을 받을 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]If an enemy attacks you, the attacker's $Stat$ decreases by $Value$.
+#22302	[!Mastery]적으로부터 공격을 받을 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]If an enemy attacks you, the attacker's 공격력 decreases by $Value$.
 #22303	[!Mastery]근접한 적으로부터 받는 피해량이 $Value$ 감소합니다.	[!Mastery]Damage taken from nearby enemy redcues by $Value$.
 #22304	[!Mastery]모든 어빌리티의 시전 지연 시간이 $Value$ 감소합니다.	[!Mastery]Cast delays of all abilities redcue by $Value$.
 #22305	[!NpcVisitMessage]이 시설은 사수 거리를 이용하는 고객들의 활성화를 위해 만들어진 시설입니다.	[!NpcVisitMessage]This facility is erected to entice people into the Shooter street.
@@ -14778,21 +14778,21 @@
 #22410	[!Mastery]규칙적인 운동	[!Mastery]Regular exercise
 #22411	[!Mastery]규칙적으로 반복하는 과정을 통해 결과를 성취하라.	[!Mastery]Achieve the results by regularly repeating procedures.
 #22412	[!Mastery]현재 사용하고 있는 특성에 따라 다음과 같은 효과가 발생합니다.	[!Mastery]The following effects take place according to the masteries you are currently using.
-#22413	[!Mastery]$CharacterLevel$ 당 $Stat$, $Stat2$[이] $Value$ 추가 증가합니다.	[!Mastery]$Stat$, $Stat2$ further increases by $Value$ for every $CharacterLevel$.
+#22413	[!Mastery]$CharacterLevel$ 당 공격력, $Stat2$[이] $Value$ 추가 증가합니다.	[!Mastery]공격력, $Stat2$ further increases by $Value$ for every $CharacterLevel$.
 #22414	[!Mastery]재빠른 전황 파악	[!Mastery]Quick grasp of the situation
 #22415	[!Mastery]시시각가 변하는 상황에 맞춰 최선의 선택을 찾아라.	[!Mastery]Choose the best among whimsical situations.
 #22416	[!Mastery]시야 내 적이 턴을 종료할 때마다 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Your $ActionTime$ decreases by $Value$ at every end of the turn of an enemy within your line of sight.
 #22417	[!Mastery]턴을 종료하는 적이 $State$, $State2$, $State3$ 상태이거나 행동 불능 상태인 경우 발동하지 않습니다.	[!Mastery]If an enemy ending a turn is at $State$, $State2$, $State3$ state or cannot act, the mastery has no effect.
 #22418	[!Mastery]혼전	[!Mastery]Fierce battle
 #22419	[!Mastery]직면한 문제부터 해결하라.	[!Mastery]Get the problems at hand done first.
-#22420	[!Mastery]자신의 시야 내 아군과 적이 각각 $Value$명 이상이면, $Stat$, $Stat2$, $Stat3$, $Stat4$[이] $Value2$ 증가합니다.	[!Mastery]If each number of enemy and ally is greater than $Value$, $Stat$, $Stat2$, $Stat3$, $Stat4$ increases by $Value2$.
+#22420	[!Mastery]자신의 시야 내 아군과 적이 각각 $Value$명 이상이면, 공격력, $Stat2$, $Stat3$, $Stat4$[이] $Value2$ 증가합니다.	[!Mastery]If each number of enemy and ally is greater than $Value$, 공격력, $Stat2$, $Stat3$, $Stat4$ increases by $Value2$.
 #22421	[!Mastery]미션 진행 중 사용 가능한 $Item$이 존재하면, $Dead$에 이르는 피해를 무효화하고 $Buff$ 상태가 됩니다. 해당 효과 발생 시, $Item$의 사용 가능 횟수가 $Value$ 감소합니다.	[!Mastery]During a mission, if there is a(n) $Item$, you negate the damage that can cause you $Dead$ and become $Buff$ state. Upon activation of this mastery, the number of usage of $Item$ decreaes by $Value$.
 #22422	[!Mastery]$Buff$ 상태의 해제로 $Dead$이 되지 않습니다.	[!Mastery]Removing $Buff$ state does not put you $Dead$.
 #22423	[!Mastery]$Buff$ 상태에서는 작동하지 않습니다.	[!Mastery]The mastery is deactivated in $Buff$ state.
-#22424	[!Mastery]$Ability$로 $Human$인 적을 공격할 경우, 적의 $Stat$[이] $Value$ 감소합니다.	[!Mastery]Attacking $Human$ type target with $Ability$ decreases the target's $Stat$ by $Value$.
+#22424	[!Mastery]$Ability$로 $Human$인 적을 공격할 경우, 적의 공격력[이] $Value$ 감소합니다.	[!Mastery]Attacking $Human$ type target with $Ability$ decreases the target's 공격력 by $Value$.
 #22425	[!Mastery]적에게 치명타를 적중시키면, 해당 적의 상태 효과를 모두 해제하며, 해제한 상태 효과 $Value$개 당 $Vigor$이 $Value2$ 감소합니다.	[!Mastery]Landing a critical strike on a target removes all status effects on the target. The target's $Vigor$ decreases by $Value2$ for every $Value$ removed status effect(s).
 #22426	[!Mastery]$Ability$를 적에게 적중시키면, 적의 $ActionTime$이 $Value$ 증가합니다.	[!Mastery]Hitting a target with $Ability$ increases the target's $ActionTime$ by $Value$.
-#22427	[!Mastery]$Evening$, $Night$, $Indoor_Dark$에서 $Ability$, $Ability2$, $Ability3$에 의해 공격 받을 경우, $Stat$, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Taking damage from $Ability$, $Ability2$, $Ability3$ during $Evening$, $Night$, $Indoor_Dark$ increases $Stat$, $Stat2$ by $Value$.
+#22427	[!Mastery]$Evening$, $Night$, $Indoor_Dark$에서 $Ability$, $Ability2$, $Ability3$에 의해 공격 받을 경우, 공격력, $Stat2$[이] $Value$ 증가합니다.	[!Mastery]Taking damage from $Ability$, $Ability2$, $Ability3$ during $Evening$, $Night$, $Indoor_Dark$ increases 공격력, $Stat2$ by $Value$.
 #22428	[!SystemMail]아이템 거래	[!SystemMail]Trading Item
 #22429	[!SystemMail]아이템 거래에 따라 다음 금액이 지불되었습니다.	[!SystemMail]You have paid the following amount as you traded item(s).
 #22430	[!WordCollection]첨부 금액	[!WordCollection]Attached Vill
@@ -14818,7 +14818,7 @@
 #22450	[!GuideMessage]우편함이 가득 차서 메일을 더 이상 받을 수 없습니다.	[!GuideMessage]Your mailbox is full. You cannot receive mails.
 #22451	[!Mastery]완벽한 자세	[!Mastery]Perfect pose
 #22452	[!Mastery]최고의 결과는 반복된 훈련에서 탄생한다.	[!Mastery]Best results are the outcome of repetition.
-#22453	[!Mastery]$CounterAttack$, $ResponsiveAttack$으로 적을 공격하거나 $State$ 상태에서 적을 공격할 경우, $Stat$[이] $Value$ 증가합니다.	[!Mastery]Executing $CounterAttack$, $ResponsiveAttack$ on a target or attacking a target while you are under $State$ state increases $Stat$ by $Value$.
+#22453	[!Mastery]$CounterAttack$, $ResponsiveAttack$으로 적을 공격하거나 $State$ 상태에서 적을 공격할 경우, 공격력[이] $Value$ 증가합니다.	[!Mastery]Executing $CounterAttack$, $ResponsiveAttack$ on a target or attacking a target while you are under $State$ state increases 공격력 by $Value$.
 #22454	[!Mastery]전술적 연계	[!Mastery]Joint tactics
 #22455	[!Mastery]혼자서는 아무것도 할 수 없지.	[!Mastery]Nothing can be done alone.
 #22456	[!Mastery]아군이 인접한 타일에서 행동을 종료하면 $ActionTime$이 $Value$ 감소합니다.	[!Mastery]Your $ActionTime$ decreases by $Value$ if an ally nearby ends a turn.
